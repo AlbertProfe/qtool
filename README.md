@@ -80,4 +80,19 @@ qtool function
 
 ## Pricing and license
 
+### Pricing
+
 Qtool is a free and open source tool licensed under the MIT license. This means that users are free to use, modify, and distribute the tool as they see fit, as long as they include the appropriate attribution and do not hold the developers liable for any damages that may result from using the tool. Users can easily install and use qtool from the Linux terminal by downloading the source code from a repository such as GitHub and following the installation instructions provided.
+
+### tty-table
+
+Use nodejs and tty-table app with csv delimiter ";"
+
+**need to install two packages:**
+
+```bash
+$ sudo apt-get install nodejs 
+# $ npm install tty-table -g
+```
+
+[tty-table 端子台](https://github.com/tecfu/tty-table)
