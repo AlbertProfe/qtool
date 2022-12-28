@@ -22,15 +22,23 @@ The `dirtable` and `yamltable` functions can be used to create tables from .csv 
 
 Finally, the `writenavigation` function can be used to write callouts in `.qmd` files to facilitate navigation, which can be especially useful for large projects with many collaborators. Overall, qtool can be a very useful tool for managing and organizing large Quarto projects.
 
-## Operations
+## Operations implemented
 
 **Qtool is a command-line tool** that helps users manage and manipulate their Quarto (`.qmd`) files. It has the following five operations:
 
-- `help`: displays a list of all available commands and their usage.
 - `debug`: scans the directories and files in a specified directory, and checks for any discrepancies between the .yaml and ``.qmd`` files. It reports any errors or inconsistencies it finds.
 - `dirtable`: generates a CSV file containing information about the directories in the specified directory. It includes the directory name, the number of files in the directory, and the total number of lines in all of the files in the directory.
 - `yamltable`: generates a CSV file containing information about the .yaml files in the specified directory. It includes the file name, the number of lines in the file, and the number of sections in the file.
 - `writenavigation`: adds callouts to the ``.qmd`` files in the specified directory, to make it easier for users to navigate through the content. It adds a callout at the beginning of each section, with a link to the next and previous sections.
+
+## Future features: To-do
+
+- `help`: displays a list of all available commands and their usage.
+- `template`: allows users to create a new template for their .qmd files or use an existing template.
+
+### Template discussion
+
+This can be useful for organizing and standardizing the structure of their .qmd files, particularly in large projects with multiple collaborators. To create a new template, users can specify the desired structure and formatting for their .qmd files and save it as a template file. To use an existing template, they can specify the path to the template file and the qtool script will use it to create new .qmd files. The qtool script is a free, open-source tool licensed under the MIT license, so users can freely use and modify it to meet their needs.
 
 ## Install
 
@@ -82,7 +90,9 @@ qtool function
 
 ### Pricing
 
-Qtool is a free and open source tool licensed under the MIT license. This means that users are free to use, modify, and distribute the tool as they see fit, as long as they include the appropriate attribution and do not hold the developers liable for any damages that may result from using the tool. Users can easily install and use qtool from the Linux terminal by downloading the source code from a repository such as GitHub and following the installation instructions provided.
+**Qtool is a free and open source tool licensed under the MIT license**. 
+
+This means that users are free to use, modify, and distribute the tool as they see fit, as long as they include the appropriate attribution and do not hold the developers liable for any damages that may result from using the tool. Users can easily install and use qtool from the Linux terminal by downloading the source code from a repository such as GitHub and following the installation instructions provided.
 
 ### tty-table
 
@@ -92,7 +102,7 @@ Use nodejs and tty-table app with csv delimiter ";"
 
 ```bash
 $ sudo apt-get install nodejs 
-# $ npm install tty-table -g
+$ npm install tty-table -g
 ```
 
 [tty-table 端子台](https://github.com/tecfu/tty-table)
