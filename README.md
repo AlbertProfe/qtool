@@ -22,7 +22,9 @@ The `dirtable` and `yamltable` functions can be used to create tables from .csv 
 
 Finally, the `writenavigation` function can be used to write callouts in `.qmd` files to facilitate navigation, which can be especially useful for large projects with many collaborators. Overall, qtool can be a very useful tool for managing and organizing large Quarto projects.
 
-## Operations implemented
+## Features
+
+### Implemented
 
 **Qtool is a command-line tool** that helps users manage and manipulate their Quarto (`.qmd`) files. It has the following five operations:
 
@@ -31,7 +33,7 @@ Finally, the `writenavigation` function can be used to write callouts in `.qmd` 
 - `yamltable`: generates a CSV file containing information about the .yaml files in the specified directory. It includes the file name, the number of lines in the file, and the number of sections in the file.
 - `writenavigation`: adds callouts to the ``.qmd`` files in the specified directory, to make it easier for users to navigate through the content. It adds a callout at the beginning of each section, with a link to the next and previous sections.
 
-## Future features: To-do
+### Future: To-do
 
 - `help`: displays a list of all available commands and their usage.
 - `template`: allows users to create a new template for their .qmd files or use an existing template.
