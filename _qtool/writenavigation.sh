@@ -63,11 +63,17 @@ for ((i=0; i<${#files[@]}; i++)); do
     
   # Write the columns callout init in anycase to .qmd file  
   echo "<br><br>" >> "../${file}"
-  echo ":::: {.columns}" >> "../${file}"
+  echo "<div class="row">" >> "../${file}"
+  echo "<br>" >> "../${file}"
 
   # Append a link to the previous file
   if [[ $i -gt 0 ]]; then 
-    echo "::: {.column .previous width="40%"} [{{< fa solid arrow-left >}} "${titles[i-1]}"]("${files[i-1]}"):::" >> "../${file}"
+    echo "<div class='column left previous'>" >> "../${file}"
+    echo "<br>" >> "../${file}"
+    echo "[{{< fa solid arrow-left >}} "${titles[i-1]}"](/"${files[i-1]}")" >> "../${file}"
+    echo "<br>" >> "../${file}"
+    echo "</div>" >> "../${file}"
+    echo "<br>" >> "../${file}"
     # Write the operation to the log file
     echo "$(date +"%Y-%m-%d %H:%M:%S") - #$: Added  "${titles[i-1]}" to previous file ${files[i-1]} to ${file}" >&3
   else
@@ -75,11 +81,21 @@ for ((i=0; i<${#files[@]}; i++)); do
     echo "$(date +"%Y-%m-%d %H:%M:%S") - #$op_counter: No previous file found for ${file}" >&3
   fi
   # # Write the top arrow callout in anycase to .qmd file  
-  echo ":::{.column .center width=20%} [{{< fa solid arrow-up >}} top](#top) :::" >> "../${file}"
+  echo "<div class='column center'>" >> "../${file}"
+  echo "<br>" >> "../${file}"
+  echo "[{{< fa solid arrow-up >}} top](#top)"  >> "../${file}" 
+  echo "<br>" >> "../${file}"
+  echo "</div>" >> "../${file}"
+  echo "<br>" >> "../${file}"
 
   # Append a link to the next file
   if [[ $i -lt $(( ${#files[@]} - 1 )) ]]; then
-    echo "::: {.column .next width="40%"} ["${titles[i+1]} " {{< fa solid arrow-right >}}]("${files[i+1]}"):::" >> "../${file}"
+    echo "<div class='column right next'>"  >> "../${file}"
+    echo "<br>" >> "../${file}"
+    echo "["${titles[i+1]} " {{< fa solid arrow-right >}}](/"${files[i+1]}")" >> "../${file}"
+    echo "<br>" >> "../${file}"
+    echo "</div>" >> "../${file}"
+    echo "<br>" >> "../${file}"
     # Write the operation to the log file
     echo "$(date +"%Y-%m-%d %H:%M:%S") - #$op_counter: Added "${files[i+1]}" to next file ${files[i+1]} to ${file}" >&3
   else
@@ -87,10 +103,13 @@ for ((i=0; i<${#files[@]}; i++)); do
     echo "$(date +"%Y-%m-%d %H:%M:%S") - #$op_counter: No next file found for ${file}" >&3
   fi
   # Write the columns callout end in anycase to .qmd file  
-  echo "::::" >> "../${file}"  
+  echo "</div>" >> "../${file}"  
 done
 
 # Close the log file
 exec 3>&-
+
+
+
 
 
