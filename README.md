@@ -38,7 +38,7 @@ Finally, the `writenavigation` function can be used to write callouts in `.qmd` 
 - `help`: displays a list of all available commands and their usage.
 - `template`: allows users to create a new template for their .qmd files or use an existing template.
 
-### Template discussion
+#### Template discussion
 
 This can be useful for organizing and standardizing the structure of their .qmd files, particularly in large projects with multiple collaborators. To create a new template, users can specify the desired structure and formatting for their .qmd files and save it as a template file. To use an existing template, they can specify the path to the template file and the qtool script will use it to create new .qmd files. The qtool script is a free, open-source tool licensed under the MIT license, so users can freely use and modify it to meet their needs.
 
