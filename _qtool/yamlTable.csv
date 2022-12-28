@@ -1,0 +1,134 @@
+COUNTER;DOMAIN;SECTION;PATH;TITLE
+1;index.qmd;;index.qmd;Home
+2;devops;What is DevOps;devops/devops-what-intro.qmd;DevOps: Introduction
+3;devops;What is DevOps;devops/devops-what-overview.qmd;DevOps: agile and microservices
+4;devops;What is DevOps;devops/devops-what-immutable.qmd;Immutable Infrastructure
+5;devops;Documentation;devops/devops-doc-quarto.qmd;How to document: Quarto and Obsidian
+6;devops;Version Control;devops/devops-vc-git.qmd;Git
+7;devops;Version Control;devops/devops-vc-github.qmd;GitHub
+8;devops;IDEs;devops/devops-ide-visualcode.qmd;Visual Code
+9;devops;IDEs;devops/devops-ide-intelljidea.qmd;IDE: IntellJIdea
+10;devops;DevOps tools;devops/devops-tools-aws.qmd;Aamanzon Web Sevices AWS
+11;devops;DevOps tools;devops/devops-tools-docker.qmd;Docker
+12;devops;DevOps tools;devops/devops-tools-jenkins.qmd;Jenkins pipelines
+13;devops;DevOps tools;devops/devops-tools-k8s.qmd;Kubernetes k8s
+14;devops;DevOps tools;devops/devops-tools-digitalocean.qmd;Digital Ocean
+15;devops;DevOps tools;devops/devops-tools-installjenkins.qmd;Howto install Jenkins
+16;devops;DevOps tools;devops/devops-tools-installmaven.qmd;Howto install Maven
+17;devops;DevOps Laboratories;devops/devops-lab-chatapp.qmd;Lab 1: chat App
+18;devops;DevOps Laboratories;devops/devops-lab-springbooksintro.qmd;Lab 2: Spring Boot Intro
+19;devops;DevOps Laboratories;devops/devops-lab-springbookss3.qmd;Lab 3: Spring Boot and AWS S3
+20;devops;DevOps Laboratories;devops/devops-lab-springbooksdocker.qmd;Lab 4: Spring Boot and Docker
+21;devops;DevOps Laboratories;devops/devops-lab-k8sdigitalocean.qmd;Lab 5: k8s on Digital Ocean
+22;devops;DevOps readings;devops/resources.qmd;Resources
+23;linux;Linux: concepts;linux/linux-what-basics.qmd;Linux: basic concepts
+24;linux;Linux: concepts;linux/linux-what-bash.qmd;Linux: Bash
+25;linux;Linux: concepts;linux/linux-what-sudo.qmd;Linux: su and sudo
+26;linux;Linux: concepts;linux/linux-what-pipes.qmd;Linux: pipes
+27;linux;Linux: concepts;linux/linux-what-sys.qmd;
+28;linux;Linux: concepts;linux/linux-what-vm.qmd;Linux: Virtual Machines
+29;linux;Linux: distros;linux/linux-distros-ubuntu.qmd;Linux Distros: Ubuntu
+30;linux;Linux: distros;linux/linux-distros-mint.qmd;Linux Distros: Mint
+31;linux;Linux: distros;linux/linux-distros-debian.qmd;Linux Distros: Debian
+32;linux;Linux: distros;linux/linux-distros-opensuse.qmd;Linux Distros: openSuse
+33;linux;Linux: distros;linux/linux-distros-manjaro.qmd;Linux Distros: Manjaro
+34;linux;Linux: distros;linux/linux-distros-redhat.qmd;Linux Distros: Red Hat Enterprise Linux
+35;linux;Linux: laboratories;linux/lilab01-1.qmd;Linux Lab#LI01-1: Choose Linux
+36;linux;Linux: laboratories;linux/lilab01-2.qmd;Linux Lab#LI01-2: Install at least three distributions
+37;linux;Linux: laboratories;linux/lilab01-3.qmd;Linux Lab#LI01-3: Adjust user permissions
+38;linux;Linux: laboratories;linux/lilab02-1.qmd;Linux Lab#LI02-1: Export env user with grep and pipe
+39;linux;Linux: laboratories;linux/lilab03-1.qmd;Linux Lab#LI03-1: Manage users and groups
+40;linux;Linux: laboratories;linux/lilab03-2.qmd;Linux Lab#LI03-2: Manage files
+41;linux;Linux: laboratories;linux/lilab03-3.qmd;Linux Lab#LI03-3: Manage software
+42;linux;Linux: laboratories;linux/lilab03-4.qmd;Linux Lab#LI03-4: Manage hardware
+43;linux;Linux readings;linux/resources.qmd;Linux Readings
+44;markup;MarkUp Languages;markup/markup-lang-intro.qmd;Introduction Markup
+45;markup;MarkUp Languages;markup/markup-lang-html.qmd;HTML Markup
+46;markup;MarkUp Languages;markup/markup-land-md.qmd;
+47;markup;MarkUp Languages;markup/markup-lang-htmlmd.qmd;Markdown and HTML working together, good idea?
+48;markup;Quarto Markdown;markup/markup-quarto-basics.qmd;Quarto Markdown: basics
+49;markup;Quarto Markdown;markup/markup-quarto-create.qmd;Quarto Markdown: creating
+50;markup;Quarto Markdown;markup/markup-quarto-publish.qmd;Quarto Markdown: publishing
+51;markup;Quarto Markdown;markup/markup-quarto-code.qmd;Quarto Markdown: data sources
+52;markup;Quarto Markdown;markup/markup-quarto-cheatsheet.qmd;Quarto Markdown: cheat-sheet
+53;markup;Styling: CSS;markup/markup-css-basics.qmd;Cascade Style Sheet
+54;markup;Styling: CSS;markup/markup-css-w3css.qmd;CSS: W3.css
+55;markup;MarkUp Languages Laboratories;markup/mulab1.qmd;Lab#MD01-1: Create and publish by Quarto
+56;markup;MarkUp Languages readings;markup/resources.qmd;MarkUp Languages Resources
+57;scrum;What is SCRUM;scrum/scrum.qmd;SCRUM
+58;scrum;What is SCRUM;scrum/agilemanifesto.qmd;Agile Manifesto
+59;scrum;What is SCRUM;scrum/scrumguide.qmd;SCRUM Guide
+60;scrum;What is SCRUM;scrum/digitaltoolsscrum.qmd;Digital Tools SCRUM
+61;scrum;Weeks;scrum/week1.qmd;Week 1: Meetings and impediments
+62;scrum;Weeks;scrum/week2.qmd;Week 2: User stories, tasks and habits
+63;scrum;Weeks;scrum/week3.qmd;Week 3: Communication and value
+64;scrum;Weeks;scrum/week4.qmd;Week 4: ScrumMaster, how it works
+65;scrum;Weeks;scrum/week5.qmd;Week 5: Mindset, the key to everythng
+66;javase;What is Java SE;javase/se-what-basics.qmd;Java Standard Edition: Basics
+67;javase;What is Java SE;javase/se-what-principles.qmd;Java Standard Edition: Principles
+68;javase;What is Java SE;javase/se-what-moochelsinki.qmd;Java MOOC Helsinki
+69;javase;Java Concepts;javase/se-concepts-maven.qmd;Java SE: Maven
+70;javase;Java Concepts;javase/se-concepts-createproject.qmd;Java SE: Create Maven Project
+71;javase;Java Concepts;javase/se-concepts-projectgit.qmd;Java SE: Project push GitHub
+72;javase;Java Concepts;javase/se-concepts-tdd.qmd;Java SE: JUnit and TDD
+73;javase;Java Concepts;javase/se-concepts-objects.qmd;Java SE: Class and Objects
+74;javase;Java Concepts;javase/se-concepts-scope.qmd;Java SE: Scope
+75;javase;Java Concepts;javase/se-concepts-static.qmd;Java SE: static modifier
+76;javase;Java Concepts;javase/se-concepts-coupling.qmd;Java SE: Coupling/Cohesion
+77;javase;Java Concepts;javase/se-concepts-package.qmd;Java SE: Packages
+78;javase;Java Principles;javase/se-principles-encapsulation.qmd;Java SE: Encapsulation
+79;javase;Java Principles;javase/se-principles-abstraction.qmd;Java SE: Abstraction
+80;javase;Java Principles;javase/se-principles-inheritance.qmd;Java SE: Inherence
+81;javase;Java Design Patterns;javase/se-pattern-intro.qmd;Java SE Design-Patterns
+82;javase;Java Design Patterns;javase/se-pattern-uml.qmd;Java Patterns: UML
+83;javase;Java Design Patterns;javase/se-pattern-singleton.qmd;Java Patterns: Singleton
+84;javase;Java Design Patterns;javase/se-pattern-factory.qmd;Java Patterns: Factory
+85;javase;Java Design Patterns;javase/se-pattern-abstractfactory.qmd;Java Patterns: Abstract Factory
+86;javase;Java Design Patterns;javase/se-pattern-observer.qmd;Java Patterns: Observer
+87;javase;Java Design Patterns;javase/se-pattern-builder.qmd;Java Patterns: Builder
+88;javase;Java SE Laboratories;javase/selab1-1.qmd;Lab#SE01-1: Maven/Gradle Person and Account
+89;javase;Java SE Laboratories;javase/selab1-2.qmd;Lab#SE01-2: Maven/Gradle Person and Account stored in JSON
+90;javase;Java SE Laboratories;javase/selab3.qmd;Lab#SE02-1: Movie/Review
+91;javase;Java SE Laboratories;javase/selab4.qmd;Lab 4: subject
+92;javase;Java SE Laboratories;javase/selab5.qmd;Lab 5: subject
+93;javase;Java SE readings;javase/resources.qmd;Java SE Resources
+94;spring;Spring Legacy;spring/spring.qmd;Spring
+95;spring;Spring Legacy;spring/springmvc.qmd;Spring MVC
+96;springboot;Spring Boot;springboot/springboot.qmd;Spring Boot
+97;springboot;Spring Boot Laboratories;springboot/sblab1.qmd;Lab 1: Spring Boot Projects
+98;springboot;Spring Boot Laboratories;springboot/sblab2.qmd;Lab 2: Spring Boot Projects
+99;springboot;Spring Boot Laboratories;springboot/sblab3.qmd;Lab 3: Spring Boot Projects
+100;springboot;Spring Boot Laboratories;springboot/sblab4.qmd;Lab 4: Spring Boot Projects `JPA Inherence` strategies
+101;springboot;Spring Boot Laboratories;springboot/sblab5.qmd;Lab 5: subject
+102;springboot;Spring Boot readings;springboot/resources.qmd;Spring Boot Resources
+103;reactjs;React JS Principles;reactjs/reactjs.qmd;React JS: Introduction
+104;reactjs;React JS Hooks;reactjs/hookstate.qmd;React JS
+105;reactjs;React JS Hooks;reactjs/hookreducer.qmd;React JS
+106;reactjs;React JS Hooks;reactjs/hookref.qmd;React JS
+107;reactjs;React JS Hooks;reactjs/hookeffect.qmd;React JS
+108;reactjs;React JS Hooks;reactjs/hookcustom.qmd;React JS
+109;reactjs;Context and Provider;reactjs/reactjscontext.qmd;React JS
+110;reactjs;React JS Laboratories;reactjs/rjslab1.qmd;React JS
+111;reactjs;React JS Laboratories;reactjs/rjslab2.qmd;React JS
+112;reactjs;React JS Laboratories;reactjs/rjslab3.qmd;React JS
+113;reactjs;React JS Laboratories;reactjs/rjslab4.qmd;React JS
+114;reactjs;React JS Laboratories;reactjs/rjslab5.qmd;React JS
+115;reactjs;React JS readings;reactjs/resources.qmd;React JS
+116;ifcd0210;Web App IFCD0210;ifcd0210/ifcd0210.qmd;IFCD0210 Official Docs
+117;ifcd0210;Web App IFCD0210;ifcd0210/ifcd0210calendar.qmd;IFCD0210 Calendar
+118;ifcd0210;Web App IFCD0210;ifcd0210/ifcd0210initemail.qmd;IFCD Init Mail
+119;ifcd0210;Web App IFCD0210;ifcd0210/ifcd0210deliveries.qmd;IFCD Deliveries
+120;vocabulary;General Vocabulary;vocabulary/vocabgeneral.qmd;General Vocabulary
+121;vocabulary;General Vocabulary;vocabulary/vocabscrum.qmd;SCRUM Vocabulay
+122;vocabulary;General Vocabulary;vocabulary/vocabdevops.qmd;DevOps Vocabulary
+123;vocabulary;Back-end Vocabulary;vocabulary/vocabjava.qmd;Java SE Vocabulay
+124;vocabulary;Back-end Vocabulary;vocabulary/vocabspringboot.qmd;Spring Boot Vocabulay
+125;vocabulary;Back-end Vocabulary;vocabulary/vocabdatabase.qmd;DataBase Vocabulary
+126;vocabulary;Front-end Vocabulary;vocabulary/vocabreactjs.qmd;ReactJS Vocabulary
+127;about;About;about/aboutme.qmd;About me
+128;about;About;about/aboutthissite.qmd;About this site
+129;about;About;about/aboutimagescredit.qmd;About images credit
+130;about;Learning;about/aboutlearning.qmd;About learning
+131;about;Learning;about/aboutquestions.qmd;About the Useful Questions
+132;about;Listings;about/aboutlisting-table.qmd;
+133;about;Listings;about/aboutlisting-card.qmd;Articles Card-Listing

@@ -1,0 +1,667 @@
+***************** Extracting **********************
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 1: index.qmd > Home
+ _quarto.yml/.qmd file' 1: index.qmd > Home
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 2: devops/devops-what-intro.qmd > DevOps: Introduction
+ _quarto.yml/.qmd file' 2: devops/devops-what-intro.qmd > DevOps: Introduction
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 3: devops/devops-what-overview.qmd > DevOps: agile and microservices 
+ _quarto.yml/.qmd file' 3: devops/devops-what-overview.qmd > DevOps: agile and microservices 
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 4: devops/devops-what-immutable.qmd > Immutable Infrastructure
+ _quarto.yml/.qmd file' 4: devops/devops-what-immutable.qmd > Immutable Infrastructure
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 5: devops/devops-doc-quarto.qmd > How to document: Quarto and Obsidian
+ _quarto.yml/.qmd file' 5: devops/devops-doc-quarto.qmd > How to document: Quarto and Obsidian
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 6: devops/devops-vc-git.qmd > Git
+ _quarto.yml/.qmd file' 6: devops/devops-vc-git.qmd > Git
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 7: devops/devops-vc-github.qmd > GitHub
+ _quarto.yml/.qmd file' 7: devops/devops-vc-github.qmd > GitHub
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 8: devops/devops-ide-visualcode.qmd > Visual Code
+ _quarto.yml/.qmd file' 8: devops/devops-ide-visualcode.qmd > Visual Code
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 9: devops/devops-ide-intelljidea.qmd > IDE: IntellJIdea
+ _quarto.yml/.qmd file' 9: devops/devops-ide-intelljidea.qmd > IDE: IntellJIdea
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 10: devops/devops-tools-aws.qmd > Aamanzon Web Sevices AWS
+ _quarto.yml/.qmd file' 10: devops/devops-tools-aws.qmd > Aamanzon Web Sevices AWS
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 11: devops/devops-tools-docker.qmd > Docker
+ _quarto.yml/.qmd file' 11: devops/devops-tools-docker.qmd > Docker
+2022-12-28 10:13:39 - extracting from _quarto.yml and .qmd file' 12: devops/devops-tools-jenkins.qmd > Jenkins pipelines
+ _quarto.yml/.qmd file' 12: devops/devops-tools-jenkins.qmd > Jenkins pipelines
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 13: devops/devops-tools-k8s.qmd > Kubernetes k8s
+ _quarto.yml/.qmd file' 13: devops/devops-tools-k8s.qmd > Kubernetes k8s
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 14: devops/devops-tools-digitalocean.qmd > Digital Ocean
+ _quarto.yml/.qmd file' 14: devops/devops-tools-digitalocean.qmd > Digital Ocean
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 15: devops/devops-tools-installjenkins.qmd > Howto install Jenkins
+ _quarto.yml/.qmd file' 15: devops/devops-tools-installjenkins.qmd > Howto install Jenkins
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 16: devops/devops-tools-installmaven.qmd > Howto install Maven
+ _quarto.yml/.qmd file' 16: devops/devops-tools-installmaven.qmd > Howto install Maven
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 17: devops/devops-lab-chatapp.qmd > Lab 1: chat App
+ _quarto.yml/.qmd file' 17: devops/devops-lab-chatapp.qmd > Lab 1: chat App
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 18: devops/devops-lab-springbooksintro.qmd > Lab 2: Spring Boot Intro
+ _quarto.yml/.qmd file' 18: devops/devops-lab-springbooksintro.qmd > Lab 2: Spring Boot Intro
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 19: devops/devops-lab-springbookss3.qmd > Lab 3: Spring Boot and AWS S3
+ _quarto.yml/.qmd file' 19: devops/devops-lab-springbookss3.qmd > Lab 3: Spring Boot and AWS S3
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 20: devops/devops-lab-springbooksdocker.qmd > Lab 4: Spring Boot and Docker
+ _quarto.yml/.qmd file' 20: devops/devops-lab-springbooksdocker.qmd > Lab 4: Spring Boot and Docker
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 21: devops/devops-lab-k8sdigitalocean.qmd > Lab 5: k8s on Digital Ocean
+ _quarto.yml/.qmd file' 21: devops/devops-lab-k8sdigitalocean.qmd > Lab 5: k8s on Digital Ocean
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 22: devops/resources.qmd > Resources
+ _quarto.yml/.qmd file' 22: devops/resources.qmd > Resources
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 23: linux/linux-what-basics.qmd > Linux: basic concepts
+ _quarto.yml/.qmd file' 23: linux/linux-what-basics.qmd > Linux: basic concepts
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 24: linux/linux-what-bash.qmd > Linux: Bash
+ _quarto.yml/.qmd file' 24: linux/linux-what-bash.qmd > Linux: Bash
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 25: linux/linux-what-sudo.qmd > Linux: su and sudo
+ _quarto.yml/.qmd file' 25: linux/linux-what-sudo.qmd > Linux: su and sudo
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 26: linux/linux-what-pipes.qmd > Linux: pipes
+ _quarto.yml/.qmd file' 26: linux/linux-what-pipes.qmd > Linux: pipes
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 27: linux/linux-what-sys.qmd > 
+ _quarto.yml/.qmd file' 27: linux/linux-what-sys.qmd > 
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 28: linux/linux-what-vm.qmd > Linux: Virtual Machines
+ _quarto.yml/.qmd file' 28: linux/linux-what-vm.qmd > Linux: Virtual Machines
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 29: linux/linux-distros-ubuntu.qmd > Linux Distros: Ubuntu
+ _quarto.yml/.qmd file' 29: linux/linux-distros-ubuntu.qmd > Linux Distros: Ubuntu
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 30: linux/linux-distros-mint.qmd > Linux Distros: Mint
+ _quarto.yml/.qmd file' 30: linux/linux-distros-mint.qmd > Linux Distros: Mint
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 31: linux/linux-distros-debian.qmd > Linux Distros: Debian
+ _quarto.yml/.qmd file' 31: linux/linux-distros-debian.qmd > Linux Distros: Debian
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 32: linux/linux-distros-opensuse.qmd > Linux Distros: openSuse
+ _quarto.yml/.qmd file' 32: linux/linux-distros-opensuse.qmd > Linux Distros: openSuse
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 33: linux/linux-distros-manjaro.qmd > Linux Distros: Manjaro
+ _quarto.yml/.qmd file' 33: linux/linux-distros-manjaro.qmd > Linux Distros: Manjaro
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 34: linux/linux-distros-redhat.qmd > Linux Distros: Red Hat Enterprise Linux
+ _quarto.yml/.qmd file' 34: linux/linux-distros-redhat.qmd > Linux Distros: Red Hat Enterprise Linux
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 35: linux/lilab01-1.qmd > Linux Lab#LI01-1: Choose Linux
+ _quarto.yml/.qmd file' 35: linux/lilab01-1.qmd > Linux Lab#LI01-1: Choose Linux
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 36: linux/lilab01-2.qmd > Linux Lab#LI01-2: Install at least three distributions
+ _quarto.yml/.qmd file' 36: linux/lilab01-2.qmd > Linux Lab#LI01-2: Install at least three distributions
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 37: linux/lilab01-3.qmd > Linux Lab#LI01-3: Adjust user permissions
+ _quarto.yml/.qmd file' 37: linux/lilab01-3.qmd > Linux Lab#LI01-3: Adjust user permissions
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 38: linux/lilab02-1.qmd > Linux Lab#LI02-1: Export env user with grep and pipe
+ _quarto.yml/.qmd file' 38: linux/lilab02-1.qmd > Linux Lab#LI02-1: Export env user with grep and pipe
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 39: linux/lilab03-1.qmd > Linux Lab#LI03-1: Manage users and groups
+ _quarto.yml/.qmd file' 39: linux/lilab03-1.qmd > Linux Lab#LI03-1: Manage users and groups
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 40: linux/lilab03-2.qmd > Linux Lab#LI03-2: Manage files
+ _quarto.yml/.qmd file' 40: linux/lilab03-2.qmd > Linux Lab#LI03-2: Manage files
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 41: linux/lilab03-3.qmd > Linux Lab#LI03-3: Manage software
+ _quarto.yml/.qmd file' 41: linux/lilab03-3.qmd > Linux Lab#LI03-3: Manage software
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 42: linux/lilab03-4.qmd > Linux Lab#LI03-4: Manage hardware
+ _quarto.yml/.qmd file' 42: linux/lilab03-4.qmd > Linux Lab#LI03-4: Manage hardware
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 43: linux/resources.qmd > Linux Readings
+ _quarto.yml/.qmd file' 43: linux/resources.qmd > Linux Readings
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 44: markup/markup-lang-intro.qmd > Introduction Markup
+ _quarto.yml/.qmd file' 44: markup/markup-lang-intro.qmd > Introduction Markup
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 45: markup/markup-lang-html.qmd > HTML Markup
+ _quarto.yml/.qmd file' 45: markup/markup-lang-html.qmd > HTML Markup
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 46: markup/markup-land-md.qmd > 
+ _quarto.yml/.qmd file' 46: markup/markup-land-md.qmd > 
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 47: markup/markup-lang-htmlmd.qmd > Markdown and HTML working together, good idea?
+ _quarto.yml/.qmd file' 47: markup/markup-lang-htmlmd.qmd > Markdown and HTML working together, good idea?
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 48: markup/markup-quarto-basics.qmd > Quarto Markdown: basics 
+ _quarto.yml/.qmd file' 48: markup/markup-quarto-basics.qmd > Quarto Markdown: basics 
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 49: markup/markup-quarto-create.qmd > Quarto Markdown: creating
+ _quarto.yml/.qmd file' 49: markup/markup-quarto-create.qmd > Quarto Markdown: creating
+2022-12-28 10:13:40 - extracting from _quarto.yml and .qmd file' 50: markup/markup-quarto-publish.qmd > Quarto Markdown: publishing
+ _quarto.yml/.qmd file' 50: markup/markup-quarto-publish.qmd > Quarto Markdown: publishing
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 51: markup/markup-quarto-code.qmd > Quarto Markdown: data sources
+ _quarto.yml/.qmd file' 51: markup/markup-quarto-code.qmd > Quarto Markdown: data sources
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 52: markup/markup-quarto-cheatsheet.qmd > Quarto Markdown: cheat-sheet
+ _quarto.yml/.qmd file' 52: markup/markup-quarto-cheatsheet.qmd > Quarto Markdown: cheat-sheet
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 53: markup/markup-css-basics.qmd > Cascade Style Sheet
+ _quarto.yml/.qmd file' 53: markup/markup-css-basics.qmd > Cascade Style Sheet
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 54: markup/markup-css-w3css.qmd > CSS: W3.css
+ _quarto.yml/.qmd file' 54: markup/markup-css-w3css.qmd > CSS: W3.css
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 55: markup/mulab1.qmd > Lab#MD01-1: Create and publish by Quarto
+ _quarto.yml/.qmd file' 55: markup/mulab1.qmd > Lab#MD01-1: Create and publish by Quarto
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 56: markup/resources.qmd > MarkUp Languages Resources
+ _quarto.yml/.qmd file' 56: markup/resources.qmd > MarkUp Languages Resources
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 57: scrum/scrum.qmd > SCRUM
+ _quarto.yml/.qmd file' 57: scrum/scrum.qmd > SCRUM
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 58: scrum/agilemanifesto.qmd > Agile Manifesto
+ _quarto.yml/.qmd file' 58: scrum/agilemanifesto.qmd > Agile Manifesto
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 59: scrum/scrumguide.qmd > SCRUM Guide
+ _quarto.yml/.qmd file' 59: scrum/scrumguide.qmd > SCRUM Guide
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 60: scrum/digitaltoolsscrum.qmd > Digital Tools SCRUM
+ _quarto.yml/.qmd file' 60: scrum/digitaltoolsscrum.qmd > Digital Tools SCRUM
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 61: scrum/week1.qmd > Week 1: Meetings and impediments
+ _quarto.yml/.qmd file' 61: scrum/week1.qmd > Week 1: Meetings and impediments
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 62: scrum/week2.qmd > Week 2: User stories, tasks and habits
+ _quarto.yml/.qmd file' 62: scrum/week2.qmd > Week 2: User stories, tasks and habits
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 63: scrum/week3.qmd > Week 3: Communication and value
+ _quarto.yml/.qmd file' 63: scrum/week3.qmd > Week 3: Communication and value
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 64: scrum/week4.qmd > Week 4: ScrumMaster, how it works
+ _quarto.yml/.qmd file' 64: scrum/week4.qmd > Week 4: ScrumMaster, how it works
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 65: scrum/week5.qmd > Week 5: Mindset, the key to everythng
+ _quarto.yml/.qmd file' 65: scrum/week5.qmd > Week 5: Mindset, the key to everythng
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 66: javase/se-what-basics.qmd > Java Standard Edition: Basics
+ _quarto.yml/.qmd file' 66: javase/se-what-basics.qmd > Java Standard Edition: Basics
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 67: javase/se-what-principles.qmd > Java Standard Edition: Principles
+ _quarto.yml/.qmd file' 67: javase/se-what-principles.qmd > Java Standard Edition: Principles
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 68: javase/se-what-moochelsinki.qmd > Java MOOC Helsinki
+ _quarto.yml/.qmd file' 68: javase/se-what-moochelsinki.qmd > Java MOOC Helsinki
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 69: javase/se-concepts-maven.qmd > Java SE: Maven
+ _quarto.yml/.qmd file' 69: javase/se-concepts-maven.qmd > Java SE: Maven
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 70: javase/se-concepts-createproject.qmd > Java SE: Create Maven Project
+ _quarto.yml/.qmd file' 70: javase/se-concepts-createproject.qmd > Java SE: Create Maven Project
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 71: javase/se-concepts-projectgit.qmd > Java SE: Project push GitHub
+ _quarto.yml/.qmd file' 71: javase/se-concepts-projectgit.qmd > Java SE: Project push GitHub
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 72: javase/se-concepts-tdd.qmd > Java SE: JUnit and TDD
+ _quarto.yml/.qmd file' 72: javase/se-concepts-tdd.qmd > Java SE: JUnit and TDD
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 73: javase/se-concepts-objects.qmd > Java SE: Class and Objects
+ _quarto.yml/.qmd file' 73: javase/se-concepts-objects.qmd > Java SE: Class and Objects
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 74: javase/se-concepts-scope.qmd > Java SE: Scope
+ _quarto.yml/.qmd file' 74: javase/se-concepts-scope.qmd > Java SE: Scope
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 75: javase/se-concepts-static.qmd > Java SE: static modifier
+ _quarto.yml/.qmd file' 75: javase/se-concepts-static.qmd > Java SE: static modifier
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 76: javase/se-concepts-coupling.qmd > Java SE: Coupling/Cohesion
+ _quarto.yml/.qmd file' 76: javase/se-concepts-coupling.qmd > Java SE: Coupling/Cohesion
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 77: javase/se-concepts-package.qmd > Java SE: Packages
+ _quarto.yml/.qmd file' 77: javase/se-concepts-package.qmd > Java SE: Packages
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 78: javase/se-principles-encapsulation.qmd > Java SE: Encapsulation
+ _quarto.yml/.qmd file' 78: javase/se-principles-encapsulation.qmd > Java SE: Encapsulation
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 79: javase/se-principles-abstraction.qmd > Java SE: Abstraction
+ _quarto.yml/.qmd file' 79: javase/se-principles-abstraction.qmd > Java SE: Abstraction
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 80: javase/se-principles-inheritance.qmd > Java SE: Inherence
+ _quarto.yml/.qmd file' 80: javase/se-principles-inheritance.qmd > Java SE: Inherence
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 81: javase/se-pattern-intro.qmd > Java SE Design-Patterns
+ _quarto.yml/.qmd file' 81: javase/se-pattern-intro.qmd > Java SE Design-Patterns
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 82: javase/se-pattern-uml.qmd > Java Patterns: UML
+ _quarto.yml/.qmd file' 82: javase/se-pattern-uml.qmd > Java Patterns: UML
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 83: javase/se-pattern-singleton.qmd > Java Patterns: Singleton
+ _quarto.yml/.qmd file' 83: javase/se-pattern-singleton.qmd > Java Patterns: Singleton
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 84: javase/se-pattern-factory.qmd > Java Patterns: Factory
+ _quarto.yml/.qmd file' 84: javase/se-pattern-factory.qmd > Java Patterns: Factory
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 85: javase/se-pattern-abstractfactory.qmd > Java Patterns: Abstract Factory
+ _quarto.yml/.qmd file' 85: javase/se-pattern-abstractfactory.qmd > Java Patterns: Abstract Factory
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 86: javase/se-pattern-observer.qmd > Java Patterns: Observer
+ _quarto.yml/.qmd file' 86: javase/se-pattern-observer.qmd > Java Patterns: Observer
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 87: javase/se-pattern-builder.qmd > Java Patterns: Builder
+ _quarto.yml/.qmd file' 87: javase/se-pattern-builder.qmd > Java Patterns: Builder
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 88: javase/selab1-1.qmd > Lab#SE01-1: Maven/Gradle Person and Account
+ _quarto.yml/.qmd file' 88: javase/selab1-1.qmd > Lab#SE01-1: Maven/Gradle Person and Account
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 89: javase/selab1-2.qmd > Lab#SE01-2: Maven/Gradle Person and Account stored in JSON 
+ _quarto.yml/.qmd file' 89: javase/selab1-2.qmd > Lab#SE01-2: Maven/Gradle Person and Account stored in JSON 
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 90: javase/selab3.qmd > Lab#SE02-1: Movie/Review
+ _quarto.yml/.qmd file' 90: javase/selab3.qmd > Lab#SE02-1: Movie/Review
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 91: javase/selab4.qmd > Lab 4: subject
+ _quarto.yml/.qmd file' 91: javase/selab4.qmd > Lab 4: subject
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 92: javase/selab5.qmd > Lab 5: subject
+ _quarto.yml/.qmd file' 92: javase/selab5.qmd > Lab 5: subject
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 93: javase/resources.qmd > Java SE Resources
+ _quarto.yml/.qmd file' 93: javase/resources.qmd > Java SE Resources
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 94: spring/spring.qmd > Spring
+ _quarto.yml/.qmd file' 94: spring/spring.qmd > Spring
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 95: spring/springmvc.qmd > Spring MVC
+ _quarto.yml/.qmd file' 95: spring/springmvc.qmd > Spring MVC
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 96: springboot/springboot.qmd > Spring Boot
+ _quarto.yml/.qmd file' 96: springboot/springboot.qmd > Spring Boot
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 97: springboot/sblab1.qmd > Lab 1: Spring Boot Projects
+ _quarto.yml/.qmd file' 97: springboot/sblab1.qmd > Lab 1: Spring Boot Projects
+2022-12-28 10:13:41 - extracting from _quarto.yml and .qmd file' 98: springboot/sblab2.qmd > Lab 2: Spring Boot Projects
+ _quarto.yml/.qmd file' 98: springboot/sblab2.qmd > Lab 2: Spring Boot Projects
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 99: springboot/sblab3.qmd > Lab 3: Spring Boot Projects
+ _quarto.yml/.qmd file' 99: springboot/sblab3.qmd > Lab 3: Spring Boot Projects
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 100: springboot/sblab4.qmd > Lab 4: Spring Boot Projects `JPA Inherence` strategies
+ _quarto.yml/.qmd file' 100: springboot/sblab4.qmd > Lab 4: Spring Boot Projects `JPA Inherence` strategies
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 101: springboot/sblab5.qmd > Lab 5: subject
+ _quarto.yml/.qmd file' 101: springboot/sblab5.qmd > Lab 5: subject
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 102: springboot/resources.qmd > Spring Boot Resources
+ _quarto.yml/.qmd file' 102: springboot/resources.qmd > Spring Boot Resources
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 103: reactjs/reactjs.qmd > React JS: Introduction
+ _quarto.yml/.qmd file' 103: reactjs/reactjs.qmd > React JS: Introduction
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 104: reactjs/hookstate.qmd > React JS
+ _quarto.yml/.qmd file' 104: reactjs/hookstate.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 105: reactjs/hookreducer.qmd > React JS
+ _quarto.yml/.qmd file' 105: reactjs/hookreducer.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 106: reactjs/hookref.qmd > React JS
+ _quarto.yml/.qmd file' 106: reactjs/hookref.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 107: reactjs/hookeffect.qmd > React JS
+ _quarto.yml/.qmd file' 107: reactjs/hookeffect.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 108: reactjs/hookcustom.qmd > React JS
+ _quarto.yml/.qmd file' 108: reactjs/hookcustom.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 109: reactjs/reactjscontext.qmd > React JS
+ _quarto.yml/.qmd file' 109: reactjs/reactjscontext.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 110: reactjs/rjslab1.qmd > React JS
+ _quarto.yml/.qmd file' 110: reactjs/rjslab1.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 111: reactjs/rjslab2.qmd > React JS
+ _quarto.yml/.qmd file' 111: reactjs/rjslab2.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 112: reactjs/rjslab3.qmd > React JS
+ _quarto.yml/.qmd file' 112: reactjs/rjslab3.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 113: reactjs/rjslab4.qmd > React JS
+ _quarto.yml/.qmd file' 113: reactjs/rjslab4.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 114: reactjs/rjslab5.qmd > React JS
+ _quarto.yml/.qmd file' 114: reactjs/rjslab5.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 115: reactjs/resources.qmd > React JS
+ _quarto.yml/.qmd file' 115: reactjs/resources.qmd > React JS
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 116: ifcd0210/ifcd0210.qmd > IFCD0210 Official Docs
+ _quarto.yml/.qmd file' 116: ifcd0210/ifcd0210.qmd > IFCD0210 Official Docs
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 117: ifcd0210/ifcd0210calendar.qmd > IFCD0210 Calendar
+ _quarto.yml/.qmd file' 117: ifcd0210/ifcd0210calendar.qmd > IFCD0210 Calendar
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 118: ifcd0210/ifcd0210initemail.qmd > IFCD Init Mail
+ _quarto.yml/.qmd file' 118: ifcd0210/ifcd0210initemail.qmd > IFCD Init Mail
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 119: ifcd0210/ifcd0210deliveries.qmd > IFCD Deliveries
+ _quarto.yml/.qmd file' 119: ifcd0210/ifcd0210deliveries.qmd > IFCD Deliveries
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 120: vocabulary/vocabgeneral.qmd > General Vocabulary
+ _quarto.yml/.qmd file' 120: vocabulary/vocabgeneral.qmd > General Vocabulary
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 121: vocabulary/vocabscrum.qmd > SCRUM Vocabulay
+ _quarto.yml/.qmd file' 121: vocabulary/vocabscrum.qmd > SCRUM Vocabulay
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 122: vocabulary/vocabdevops.qmd > DevOps Vocabulary
+ _quarto.yml/.qmd file' 122: vocabulary/vocabdevops.qmd > DevOps Vocabulary
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 123: vocabulary/vocabjava.qmd > Java SE Vocabulay
+ _quarto.yml/.qmd file' 123: vocabulary/vocabjava.qmd > Java SE Vocabulay
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 124: vocabulary/vocabspringboot.qmd > Spring Boot Vocabulay
+ _quarto.yml/.qmd file' 124: vocabulary/vocabspringboot.qmd > Spring Boot Vocabulay
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 125: vocabulary/vocabdatabase.qmd > DataBase Vocabulary
+ _quarto.yml/.qmd file' 125: vocabulary/vocabdatabase.qmd > DataBase Vocabulary
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 126: vocabulary/vocabreactjs.qmd > ReactJS Vocabulary
+ _quarto.yml/.qmd file' 126: vocabulary/vocabreactjs.qmd > ReactJS Vocabulary
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 127: about/aboutme.qmd > About me
+ _quarto.yml/.qmd file' 127: about/aboutme.qmd > About me
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 128: about/aboutthissite.qmd > About this site
+ _quarto.yml/.qmd file' 128: about/aboutthissite.qmd > About this site
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 129: about/aboutimagescredit.qmd > About images credit
+ _quarto.yml/.qmd file' 129: about/aboutimagescredit.qmd > About images credit
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 130: about/aboutlearning.qmd > About learning
+ _quarto.yml/.qmd file' 130: about/aboutlearning.qmd > About learning
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 131: about/aboutquestions.qmd > About the Useful Questions
+ _quarto.yml/.qmd file' 131: about/aboutquestions.qmd > About the Useful Questions
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 132: about/aboutlisting-table.qmd > 
+ _quarto.yml/.qmd file' 132: about/aboutlisting-table.qmd > 
+2022-12-28 10:13:42 - extracting from _quarto.yml and .qmd file' 133: about/aboutlisting-card.qmd > Articles Card-Listing
+ _quarto.yml/.qmd file' 133: about/aboutlisting-card.qmd > Articles Card-Listing
+***************** Writing  ************************
+2022-12-28 10:13:42 - Operation #(1): **index.qmd**
+2022-12-28 10:13:42 - #1: No previous file found for index.qmd
+2022-12-28 10:13:42 - #1: Added devops/devops-what-intro.qmd to next file devops/devops-what-intro.qmd to index.qmd
+2022-12-28 10:13:42 - Operation #(2): **devops/devops-what-intro.qmd**
+2022-12-28 10:13:42 - #$: Added  Home to previous file index.qmd to devops/devops-what-intro.qmd
+2022-12-28 10:13:42 - #2: Added devops/devops-what-overview.qmd to next file devops/devops-what-overview.qmd to devops/devops-what-intro.qmd
+2022-12-28 10:13:42 - Operation #(3): **devops/devops-what-overview.qmd**
+2022-12-28 10:13:42 - #$: Added  DevOps: Introduction to previous file devops/devops-what-intro.qmd to devops/devops-what-overview.qmd
+2022-12-28 10:13:42 - #3: Added devops/devops-what-immutable.qmd to next file devops/devops-what-immutable.qmd to devops/devops-what-overview.qmd
+2022-12-28 10:13:42 - Operation #(4): **devops/devops-what-immutable.qmd**
+2022-12-28 10:13:42 - #$: Added  DevOps: agile and microservices  to previous file devops/devops-what-overview.qmd to devops/devops-what-immutable.qmd
+2022-12-28 10:13:42 - #4: Added devops/devops-doc-quarto.qmd to next file devops/devops-doc-quarto.qmd to devops/devops-what-immutable.qmd
+2022-12-28 10:13:42 - Operation #(5): **devops/devops-doc-quarto.qmd**
+2022-12-28 10:13:42 - #$: Added  Immutable Infrastructure to previous file devops/devops-what-immutable.qmd to devops/devops-doc-quarto.qmd
+2022-12-28 10:13:42 - #5: Added devops/devops-vc-git.qmd to next file devops/devops-vc-git.qmd to devops/devops-doc-quarto.qmd
+2022-12-28 10:13:42 - Operation #(6): **devops/devops-vc-git.qmd**
+2022-12-28 10:13:42 - #$: Added  How to document: Quarto and Obsidian to previous file devops/devops-doc-quarto.qmd to devops/devops-vc-git.qmd
+2022-12-28 10:13:42 - #6: Added devops/devops-vc-github.qmd to next file devops/devops-vc-github.qmd to devops/devops-vc-git.qmd
+2022-12-28 10:13:42 - Operation #(7): **devops/devops-vc-github.qmd**
+2022-12-28 10:13:42 - #$: Added  Git to previous file devops/devops-vc-git.qmd to devops/devops-vc-github.qmd
+2022-12-28 10:13:42 - #7: Added devops/devops-ide-visualcode.qmd to next file devops/devops-ide-visualcode.qmd to devops/devops-vc-github.qmd
+2022-12-28 10:13:42 - Operation #(8): **devops/devops-ide-visualcode.qmd**
+2022-12-28 10:13:42 - #$: Added  GitHub to previous file devops/devops-vc-github.qmd to devops/devops-ide-visualcode.qmd
+2022-12-28 10:13:42 - #8: Added devops/devops-ide-intelljidea.qmd to next file devops/devops-ide-intelljidea.qmd to devops/devops-ide-visualcode.qmd
+2022-12-28 10:13:42 - Operation #(9): **devops/devops-ide-intelljidea.qmd**
+2022-12-28 10:13:42 - #$: Added  Visual Code to previous file devops/devops-ide-visualcode.qmd to devops/devops-ide-intelljidea.qmd
+2022-12-28 10:13:42 - #9: Added devops/devops-tools-aws.qmd to next file devops/devops-tools-aws.qmd to devops/devops-ide-intelljidea.qmd
+2022-12-28 10:13:42 - Operation #(10): **devops/devops-tools-aws.qmd**
+2022-12-28 10:13:42 - #$: Added  IDE: IntellJIdea to previous file devops/devops-ide-intelljidea.qmd to devops/devops-tools-aws.qmd
+2022-12-28 10:13:42 - #10: Added devops/devops-tools-docker.qmd to next file devops/devops-tools-docker.qmd to devops/devops-tools-aws.qmd
+2022-12-28 10:13:42 - Operation #(11): **devops/devops-tools-docker.qmd**
+2022-12-28 10:13:42 - #$: Added  Aamanzon Web Sevices AWS to previous file devops/devops-tools-aws.qmd to devops/devops-tools-docker.qmd
+2022-12-28 10:13:42 - #11: Added devops/devops-tools-jenkins.qmd to next file devops/devops-tools-jenkins.qmd to devops/devops-tools-docker.qmd
+2022-12-28 10:13:42 - Operation #(12): **devops/devops-tools-jenkins.qmd**
+2022-12-28 10:13:42 - #$: Added  Docker to previous file devops/devops-tools-docker.qmd to devops/devops-tools-jenkins.qmd
+2022-12-28 10:13:42 - #12: Added devops/devops-tools-k8s.qmd to next file devops/devops-tools-k8s.qmd to devops/devops-tools-jenkins.qmd
+2022-12-28 10:13:42 - Operation #(13): **devops/devops-tools-k8s.qmd**
+2022-12-28 10:13:42 - #$: Added  Jenkins pipelines to previous file devops/devops-tools-jenkins.qmd to devops/devops-tools-k8s.qmd
+2022-12-28 10:13:42 - #13: Added devops/devops-tools-digitalocean.qmd to next file devops/devops-tools-digitalocean.qmd to devops/devops-tools-k8s.qmd
+2022-12-28 10:13:42 - Operation #(14): **devops/devops-tools-digitalocean.qmd**
+2022-12-28 10:13:42 - #$: Added  Kubernetes k8s to previous file devops/devops-tools-k8s.qmd to devops/devops-tools-digitalocean.qmd
+2022-12-28 10:13:42 - #14: Added devops/devops-tools-installjenkins.qmd to next file devops/devops-tools-installjenkins.qmd to devops/devops-tools-digitalocean.qmd
+2022-12-28 10:13:42 - Operation #(15): **devops/devops-tools-installjenkins.qmd**
+2022-12-28 10:13:42 - #$: Added  Digital Ocean to previous file devops/devops-tools-digitalocean.qmd to devops/devops-tools-installjenkins.qmd
+2022-12-28 10:13:42 - #15: Added devops/devops-tools-installmaven.qmd to next file devops/devops-tools-installmaven.qmd to devops/devops-tools-installjenkins.qmd
+2022-12-28 10:13:42 - Operation #(16): **devops/devops-tools-installmaven.qmd**
+2022-12-28 10:13:42 - #$: Added  Howto install Jenkins to previous file devops/devops-tools-installjenkins.qmd to devops/devops-tools-installmaven.qmd
+2022-12-28 10:13:42 - #16: Added devops/devops-lab-chatapp.qmd to next file devops/devops-lab-chatapp.qmd to devops/devops-tools-installmaven.qmd
+2022-12-28 10:13:42 - Operation #(17): **devops/devops-lab-chatapp.qmd**
+2022-12-28 10:13:42 - #$: Added  Howto install Maven to previous file devops/devops-tools-installmaven.qmd to devops/devops-lab-chatapp.qmd
+2022-12-28 10:13:42 - #17: Added devops/devops-lab-springbooksintro.qmd to next file devops/devops-lab-springbooksintro.qmd to devops/devops-lab-chatapp.qmd
+2022-12-28 10:13:42 - Operation #(18): **devops/devops-lab-springbooksintro.qmd**
+2022-12-28 10:13:42 - #$: Added  Lab 1: chat App to previous file devops/devops-lab-chatapp.qmd to devops/devops-lab-springbooksintro.qmd
+2022-12-28 10:13:42 - #18: Added devops/devops-lab-springbookss3.qmd to next file devops/devops-lab-springbookss3.qmd to devops/devops-lab-springbooksintro.qmd
+2022-12-28 10:13:42 - Operation #(19): **devops/devops-lab-springbookss3.qmd**
+2022-12-28 10:13:42 - #$: Added  Lab 2: Spring Boot Intro to previous file devops/devops-lab-springbooksintro.qmd to devops/devops-lab-springbookss3.qmd
+2022-12-28 10:13:42 - #19: Added devops/devops-lab-springbooksdocker.qmd to next file devops/devops-lab-springbooksdocker.qmd to devops/devops-lab-springbookss3.qmd
+2022-12-28 10:13:42 - Operation #(20): **devops/devops-lab-springbooksdocker.qmd**
+2022-12-28 10:13:42 - #$: Added  Lab 3: Spring Boot and AWS S3 to previous file devops/devops-lab-springbookss3.qmd to devops/devops-lab-springbooksdocker.qmd
+2022-12-28 10:13:42 - #20: Added devops/devops-lab-k8sdigitalocean.qmd to next file devops/devops-lab-k8sdigitalocean.qmd to devops/devops-lab-springbooksdocker.qmd
+2022-12-28 10:13:42 - Operation #(21): **devops/devops-lab-k8sdigitalocean.qmd**
+2022-12-28 10:13:42 - #$: Added  Lab 4: Spring Boot and Docker to previous file devops/devops-lab-springbooksdocker.qmd to devops/devops-lab-k8sdigitalocean.qmd
+2022-12-28 10:13:42 - #21: Added devops/resources.qmd to next file devops/resources.qmd to devops/devops-lab-k8sdigitalocean.qmd
+2022-12-28 10:13:42 - Operation #(22): **devops/resources.qmd**
+2022-12-28 10:13:42 - #$: Added  Lab 5: k8s on Digital Ocean to previous file devops/devops-lab-k8sdigitalocean.qmd to devops/resources.qmd
+2022-12-28 10:13:42 - #22: Added linux/linux-what-basics.qmd to next file linux/linux-what-basics.qmd to devops/resources.qmd
+2022-12-28 10:13:42 - Operation #(23): **linux/linux-what-basics.qmd**
+2022-12-28 10:13:42 - #$: Added  Resources to previous file devops/resources.qmd to linux/linux-what-basics.qmd
+2022-12-28 10:13:42 - #23: Added linux/linux-what-bash.qmd to next file linux/linux-what-bash.qmd to linux/linux-what-basics.qmd
+2022-12-28 10:13:42 - Operation #(24): **linux/linux-what-bash.qmd**
+2022-12-28 10:13:42 - #$: Added  Linux: basic concepts to previous file linux/linux-what-basics.qmd to linux/linux-what-bash.qmd
+2022-12-28 10:13:42 - #24: Added linux/linux-what-sudo.qmd to next file linux/linux-what-sudo.qmd to linux/linux-what-bash.qmd
+2022-12-28 10:13:42 - Operation #(25): **linux/linux-what-sudo.qmd**
+2022-12-28 10:13:42 - #$: Added  Linux: Bash to previous file linux/linux-what-bash.qmd to linux/linux-what-sudo.qmd
+2022-12-28 10:13:42 - #25: Added linux/linux-what-pipes.qmd to next file linux/linux-what-pipes.qmd to linux/linux-what-sudo.qmd
+2022-12-28 10:13:42 - Operation #(26): **linux/linux-what-pipes.qmd**
+2022-12-28 10:13:42 - #$: Added  Linux: su and sudo to previous file linux/linux-what-sudo.qmd to linux/linux-what-pipes.qmd
+2022-12-28 10:13:42 - #26: Added linux/linux-what-sys.qmd to next file linux/linux-what-sys.qmd to linux/linux-what-pipes.qmd
+2022-12-28 10:13:42 - Operation #(27): **linux/linux-what-sys.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux: pipes to previous file linux/linux-what-pipes.qmd to linux/linux-what-sys.qmd
+2022-12-28 10:13:43 - #27: Added linux/linux-what-vm.qmd to next file linux/linux-what-vm.qmd to linux/linux-what-sys.qmd
+2022-12-28 10:13:43 - Operation #(28): **linux/linux-what-vm.qmd**
+2022-12-28 10:13:43 - #$: Added   to previous file linux/linux-what-sys.qmd to linux/linux-what-vm.qmd
+2022-12-28 10:13:43 - #28: Added linux/linux-distros-ubuntu.qmd to next file linux/linux-distros-ubuntu.qmd to linux/linux-what-vm.qmd
+2022-12-28 10:13:43 - Operation #(29): **linux/linux-distros-ubuntu.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux: Virtual Machines to previous file linux/linux-what-vm.qmd to linux/linux-distros-ubuntu.qmd
+2022-12-28 10:13:43 - #29: Added linux/linux-distros-mint.qmd to next file linux/linux-distros-mint.qmd to linux/linux-distros-ubuntu.qmd
+2022-12-28 10:13:43 - Operation #(30): **linux/linux-distros-mint.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Distros: Ubuntu to previous file linux/linux-distros-ubuntu.qmd to linux/linux-distros-mint.qmd
+2022-12-28 10:13:43 - #30: Added linux/linux-distros-debian.qmd to next file linux/linux-distros-debian.qmd to linux/linux-distros-mint.qmd
+2022-12-28 10:13:43 - Operation #(31): **linux/linux-distros-debian.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Distros: Mint to previous file linux/linux-distros-mint.qmd to linux/linux-distros-debian.qmd
+2022-12-28 10:13:43 - #31: Added linux/linux-distros-opensuse.qmd to next file linux/linux-distros-opensuse.qmd to linux/linux-distros-debian.qmd
+2022-12-28 10:13:43 - Operation #(32): **linux/linux-distros-opensuse.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Distros: Debian to previous file linux/linux-distros-debian.qmd to linux/linux-distros-opensuse.qmd
+2022-12-28 10:13:43 - #32: Added linux/linux-distros-manjaro.qmd to next file linux/linux-distros-manjaro.qmd to linux/linux-distros-opensuse.qmd
+2022-12-28 10:13:43 - Operation #(33): **linux/linux-distros-manjaro.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Distros: openSuse to previous file linux/linux-distros-opensuse.qmd to linux/linux-distros-manjaro.qmd
+2022-12-28 10:13:43 - #33: Added linux/linux-distros-redhat.qmd to next file linux/linux-distros-redhat.qmd to linux/linux-distros-manjaro.qmd
+2022-12-28 10:13:43 - Operation #(34): **linux/linux-distros-redhat.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Distros: Manjaro to previous file linux/linux-distros-manjaro.qmd to linux/linux-distros-redhat.qmd
+2022-12-28 10:13:43 - #34: Added linux/lilab01-1.qmd to next file linux/lilab01-1.qmd to linux/linux-distros-redhat.qmd
+2022-12-28 10:13:43 - Operation #(35): **linux/lilab01-1.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Distros: Red Hat Enterprise Linux to previous file linux/linux-distros-redhat.qmd to linux/lilab01-1.qmd
+2022-12-28 10:13:43 - #35: Added linux/lilab01-2.qmd to next file linux/lilab01-2.qmd to linux/lilab01-1.qmd
+2022-12-28 10:13:43 - Operation #(36): **linux/lilab01-2.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Lab#LI01-1: Choose Linux to previous file linux/lilab01-1.qmd to linux/lilab01-2.qmd
+2022-12-28 10:13:43 - #36: Added linux/lilab01-3.qmd to next file linux/lilab01-3.qmd to linux/lilab01-2.qmd
+2022-12-28 10:13:43 - Operation #(37): **linux/lilab01-3.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Lab#LI01-2: Install at least three distributions to previous file linux/lilab01-2.qmd to linux/lilab01-3.qmd
+2022-12-28 10:13:43 - #37: Added linux/lilab02-1.qmd to next file linux/lilab02-1.qmd to linux/lilab01-3.qmd
+2022-12-28 10:13:43 - Operation #(38): **linux/lilab02-1.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Lab#LI01-3: Adjust user permissions to previous file linux/lilab01-3.qmd to linux/lilab02-1.qmd
+2022-12-28 10:13:43 - #38: Added linux/lilab03-1.qmd to next file linux/lilab03-1.qmd to linux/lilab02-1.qmd
+2022-12-28 10:13:43 - Operation #(39): **linux/lilab03-1.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Lab#LI02-1: Export env user with grep and pipe to previous file linux/lilab02-1.qmd to linux/lilab03-1.qmd
+2022-12-28 10:13:43 - #39: Added linux/lilab03-2.qmd to next file linux/lilab03-2.qmd to linux/lilab03-1.qmd
+2022-12-28 10:13:43 - Operation #(40): **linux/lilab03-2.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Lab#LI03-1: Manage users and groups to previous file linux/lilab03-1.qmd to linux/lilab03-2.qmd
+2022-12-28 10:13:43 - #40: Added linux/lilab03-3.qmd to next file linux/lilab03-3.qmd to linux/lilab03-2.qmd
+2022-12-28 10:13:43 - Operation #(41): **linux/lilab03-3.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Lab#LI03-2: Manage files to previous file linux/lilab03-2.qmd to linux/lilab03-3.qmd
+2022-12-28 10:13:43 - #41: Added linux/lilab03-4.qmd to next file linux/lilab03-4.qmd to linux/lilab03-3.qmd
+2022-12-28 10:13:43 - Operation #(42): **linux/lilab03-4.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Lab#LI03-3: Manage software to previous file linux/lilab03-3.qmd to linux/lilab03-4.qmd
+2022-12-28 10:13:43 - #42: Added linux/resources.qmd to next file linux/resources.qmd to linux/lilab03-4.qmd
+2022-12-28 10:13:43 - Operation #(43): **linux/resources.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Lab#LI03-4: Manage hardware to previous file linux/lilab03-4.qmd to linux/resources.qmd
+2022-12-28 10:13:43 - #43: Added markup/markup-lang-intro.qmd to next file markup/markup-lang-intro.qmd to linux/resources.qmd
+2022-12-28 10:13:43 - Operation #(44): **markup/markup-lang-intro.qmd**
+2022-12-28 10:13:43 - #$: Added  Linux Readings to previous file linux/resources.qmd to markup/markup-lang-intro.qmd
+2022-12-28 10:13:43 - #44: Added markup/markup-lang-html.qmd to next file markup/markup-lang-html.qmd to markup/markup-lang-intro.qmd
+2022-12-28 10:13:43 - Operation #(45): **markup/markup-lang-html.qmd**
+2022-12-28 10:13:43 - #$: Added  Introduction Markup to previous file markup/markup-lang-intro.qmd to markup/markup-lang-html.qmd
+2022-12-28 10:13:43 - #45: Added markup/markup-land-md.qmd to next file markup/markup-land-md.qmd to markup/markup-lang-html.qmd
+2022-12-28 10:13:43 - Operation #(46): **markup/markup-land-md.qmd**
+2022-12-28 10:13:43 - #$: Added  HTML Markup to previous file markup/markup-lang-html.qmd to markup/markup-land-md.qmd
+2022-12-28 10:13:43 - #46: Added markup/markup-lang-htmlmd.qmd to next file markup/markup-lang-htmlmd.qmd to markup/markup-land-md.qmd
+2022-12-28 10:13:43 - Operation #(47): **markup/markup-lang-htmlmd.qmd**
+2022-12-28 10:13:43 - #$: Added   to previous file markup/markup-land-md.qmd to markup/markup-lang-htmlmd.qmd
+2022-12-28 10:13:43 - #47: Added markup/markup-quarto-basics.qmd to next file markup/markup-quarto-basics.qmd to markup/markup-lang-htmlmd.qmd
+2022-12-28 10:13:43 - Operation #(48): **markup/markup-quarto-basics.qmd**
+2022-12-28 10:13:43 - #$: Added  Markdown and HTML working together, good idea? to previous file markup/markup-lang-htmlmd.qmd to markup/markup-quarto-basics.qmd
+2022-12-28 10:13:43 - #48: Added markup/markup-quarto-create.qmd to next file markup/markup-quarto-create.qmd to markup/markup-quarto-basics.qmd
+2022-12-28 10:13:43 - Operation #(49): **markup/markup-quarto-create.qmd**
+2022-12-28 10:13:43 - #$: Added  Quarto Markdown: basics  to previous file markup/markup-quarto-basics.qmd to markup/markup-quarto-create.qmd
+2022-12-28 10:13:43 - #49: Added markup/markup-quarto-publish.qmd to next file markup/markup-quarto-publish.qmd to markup/markup-quarto-create.qmd
+2022-12-28 10:13:43 - Operation #(50): **markup/markup-quarto-publish.qmd**
+2022-12-28 10:13:43 - #$: Added  Quarto Markdown: creating to previous file markup/markup-quarto-create.qmd to markup/markup-quarto-publish.qmd
+2022-12-28 10:13:43 - #50: Added markup/markup-quarto-code.qmd to next file markup/markup-quarto-code.qmd to markup/markup-quarto-publish.qmd
+2022-12-28 10:13:43 - Operation #(51): **markup/markup-quarto-code.qmd**
+2022-12-28 10:13:43 - #$: Added  Quarto Markdown: publishing to previous file markup/markup-quarto-publish.qmd to markup/markup-quarto-code.qmd
+2022-12-28 10:13:43 - #51: Added markup/markup-quarto-cheatsheet.qmd to next file markup/markup-quarto-cheatsheet.qmd to markup/markup-quarto-code.qmd
+2022-12-28 10:13:43 - Operation #(52): **markup/markup-quarto-cheatsheet.qmd**
+2022-12-28 10:13:43 - #$: Added  Quarto Markdown: data sources to previous file markup/markup-quarto-code.qmd to markup/markup-quarto-cheatsheet.qmd
+2022-12-28 10:13:43 - #52: Added markup/markup-css-basics.qmd to next file markup/markup-css-basics.qmd to markup/markup-quarto-cheatsheet.qmd
+2022-12-28 10:13:43 - Operation #(53): **markup/markup-css-basics.qmd**
+2022-12-28 10:13:43 - #$: Added  Quarto Markdown: cheat-sheet to previous file markup/markup-quarto-cheatsheet.qmd to markup/markup-css-basics.qmd
+2022-12-28 10:13:43 - #53: Added markup/markup-css-w3css.qmd to next file markup/markup-css-w3css.qmd to markup/markup-css-basics.qmd
+2022-12-28 10:13:43 - Operation #(54): **markup/markup-css-w3css.qmd**
+2022-12-28 10:13:43 - #$: Added  Cascade Style Sheet to previous file markup/markup-css-basics.qmd to markup/markup-css-w3css.qmd
+2022-12-28 10:13:43 - #54: Added markup/mulab1.qmd to next file markup/mulab1.qmd to markup/markup-css-w3css.qmd
+2022-12-28 10:13:43 - Operation #(55): **markup/mulab1.qmd**
+2022-12-28 10:13:43 - #$: Added  CSS: W3.css to previous file markup/markup-css-w3css.qmd to markup/mulab1.qmd
+2022-12-28 10:13:43 - #55: Added markup/resources.qmd to next file markup/resources.qmd to markup/mulab1.qmd
+2022-12-28 10:13:43 - Operation #(56): **markup/resources.qmd**
+2022-12-28 10:13:43 - #$: Added  Lab#MD01-1: Create and publish by Quarto to previous file markup/mulab1.qmd to markup/resources.qmd
+2022-12-28 10:13:43 - #56: Added scrum/scrum.qmd to next file scrum/scrum.qmd to markup/resources.qmd
+2022-12-28 10:13:43 - Operation #(57): **scrum/scrum.qmd**
+2022-12-28 10:13:43 - #$: Added  MarkUp Languages Resources to previous file markup/resources.qmd to scrum/scrum.qmd
+2022-12-28 10:13:43 - #57: Added scrum/agilemanifesto.qmd to next file scrum/agilemanifesto.qmd to scrum/scrum.qmd
+2022-12-28 10:13:43 - Operation #(58): **scrum/agilemanifesto.qmd**
+2022-12-28 10:13:43 - #$: Added  SCRUM to previous file scrum/scrum.qmd to scrum/agilemanifesto.qmd
+2022-12-28 10:13:43 - #58: Added scrum/scrumguide.qmd to next file scrum/scrumguide.qmd to scrum/agilemanifesto.qmd
+2022-12-28 10:13:43 - Operation #(59): **scrum/scrumguide.qmd**
+2022-12-28 10:13:43 - #$: Added  Agile Manifesto to previous file scrum/agilemanifesto.qmd to scrum/scrumguide.qmd
+2022-12-28 10:13:43 - #59: Added scrum/digitaltoolsscrum.qmd to next file scrum/digitaltoolsscrum.qmd to scrum/scrumguide.qmd
+2022-12-28 10:13:43 - Operation #(60): **scrum/digitaltoolsscrum.qmd**
+2022-12-28 10:13:43 - #$: Added  SCRUM Guide to previous file scrum/scrumguide.qmd to scrum/digitaltoolsscrum.qmd
+2022-12-28 10:13:43 - #60: Added scrum/week1.qmd to next file scrum/week1.qmd to scrum/digitaltoolsscrum.qmd
+2022-12-28 10:13:43 - Operation #(61): **scrum/week1.qmd**
+2022-12-28 10:13:43 - #$: Added  Digital Tools SCRUM to previous file scrum/digitaltoolsscrum.qmd to scrum/week1.qmd
+2022-12-28 10:13:43 - #61: Added scrum/week2.qmd to next file scrum/week2.qmd to scrum/week1.qmd
+2022-12-28 10:13:43 - Operation #(62): **scrum/week2.qmd**
+2022-12-28 10:13:43 - #$: Added  Week 1: Meetings and impediments to previous file scrum/week1.qmd to scrum/week2.qmd
+2022-12-28 10:13:43 - #62: Added scrum/week3.qmd to next file scrum/week3.qmd to scrum/week2.qmd
+2022-12-28 10:13:43 - Operation #(63): **scrum/week3.qmd**
+2022-12-28 10:13:43 - #$: Added  Week 2: User stories, tasks and habits to previous file scrum/week2.qmd to scrum/week3.qmd
+2022-12-28 10:13:43 - #63: Added scrum/week4.qmd to next file scrum/week4.qmd to scrum/week3.qmd
+2022-12-28 10:13:43 - Operation #(64): **scrum/week4.qmd**
+2022-12-28 10:13:43 - #$: Added  Week 3: Communication and value to previous file scrum/week3.qmd to scrum/week4.qmd
+2022-12-28 10:13:43 - #64: Added scrum/week5.qmd to next file scrum/week5.qmd to scrum/week4.qmd
+2022-12-28 10:13:43 - Operation #(65): **scrum/week5.qmd**
+2022-12-28 10:13:43 - #$: Added  Week 4: ScrumMaster, how it works to previous file scrum/week4.qmd to scrum/week5.qmd
+2022-12-28 10:13:43 - #65: Added javase/se-what-basics.qmd to next file javase/se-what-basics.qmd to scrum/week5.qmd
+2022-12-28 10:13:43 - Operation #(66): **javase/se-what-basics.qmd**
+2022-12-28 10:13:43 - #$: Added  Week 5: Mindset, the key to everythng to previous file scrum/week5.qmd to javase/se-what-basics.qmd
+2022-12-28 10:13:43 - #66: Added javase/se-what-principles.qmd to next file javase/se-what-principles.qmd to javase/se-what-basics.qmd
+2022-12-28 10:13:43 - Operation #(67): **javase/se-what-principles.qmd**
+2022-12-28 10:13:43 - #$: Added  Java Standard Edition: Basics to previous file javase/se-what-basics.qmd to javase/se-what-principles.qmd
+2022-12-28 10:13:43 - #67: Added javase/se-what-moochelsinki.qmd to next file javase/se-what-moochelsinki.qmd to javase/se-what-principles.qmd
+2022-12-28 10:13:43 - Operation #(68): **javase/se-what-moochelsinki.qmd**
+2022-12-28 10:13:43 - #$: Added  Java Standard Edition: Principles to previous file javase/se-what-principles.qmd to javase/se-what-moochelsinki.qmd
+2022-12-28 10:13:43 - #68: Added javase/se-concepts-maven.qmd to next file javase/se-concepts-maven.qmd to javase/se-what-moochelsinki.qmd
+2022-12-28 10:13:43 - Operation #(69): **javase/se-concepts-maven.qmd**
+2022-12-28 10:13:43 - #$: Added  Java MOOC Helsinki to previous file javase/se-what-moochelsinki.qmd to javase/se-concepts-maven.qmd
+2022-12-28 10:13:43 - #69: Added javase/se-concepts-createproject.qmd to next file javase/se-concepts-createproject.qmd to javase/se-concepts-maven.qmd
+2022-12-28 10:13:43 - Operation #(70): **javase/se-concepts-createproject.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: Maven to previous file javase/se-concepts-maven.qmd to javase/se-concepts-createproject.qmd
+2022-12-28 10:13:43 - #70: Added javase/se-concepts-projectgit.qmd to next file javase/se-concepts-projectgit.qmd to javase/se-concepts-createproject.qmd
+2022-12-28 10:13:43 - Operation #(71): **javase/se-concepts-projectgit.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: Create Maven Project to previous file javase/se-concepts-createproject.qmd to javase/se-concepts-projectgit.qmd
+2022-12-28 10:13:43 - #71: Added javase/se-concepts-tdd.qmd to next file javase/se-concepts-tdd.qmd to javase/se-concepts-projectgit.qmd
+2022-12-28 10:13:43 - Operation #(72): **javase/se-concepts-tdd.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: Project push GitHub to previous file javase/se-concepts-projectgit.qmd to javase/se-concepts-tdd.qmd
+2022-12-28 10:13:43 - #72: Added javase/se-concepts-objects.qmd to next file javase/se-concepts-objects.qmd to javase/se-concepts-tdd.qmd
+2022-12-28 10:13:43 - Operation #(73): **javase/se-concepts-objects.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: JUnit and TDD to previous file javase/se-concepts-tdd.qmd to javase/se-concepts-objects.qmd
+2022-12-28 10:13:43 - #73: Added javase/se-concepts-scope.qmd to next file javase/se-concepts-scope.qmd to javase/se-concepts-objects.qmd
+2022-12-28 10:13:43 - Operation #(74): **javase/se-concepts-scope.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: Class and Objects to previous file javase/se-concepts-objects.qmd to javase/se-concepts-scope.qmd
+2022-12-28 10:13:43 - #74: Added javase/se-concepts-static.qmd to next file javase/se-concepts-static.qmd to javase/se-concepts-scope.qmd
+2022-12-28 10:13:43 - Operation #(75): **javase/se-concepts-static.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: Scope to previous file javase/se-concepts-scope.qmd to javase/se-concepts-static.qmd
+2022-12-28 10:13:43 - #75: Added javase/se-concepts-coupling.qmd to next file javase/se-concepts-coupling.qmd to javase/se-concepts-static.qmd
+2022-12-28 10:13:43 - Operation #(76): **javase/se-concepts-coupling.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: static modifier to previous file javase/se-concepts-static.qmd to javase/se-concepts-coupling.qmd
+2022-12-28 10:13:43 - #76: Added javase/se-concepts-package.qmd to next file javase/se-concepts-package.qmd to javase/se-concepts-coupling.qmd
+2022-12-28 10:13:43 - Operation #(77): **javase/se-concepts-package.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: Coupling/Cohesion to previous file javase/se-concepts-coupling.qmd to javase/se-concepts-package.qmd
+2022-12-28 10:13:43 - #77: Added javase/se-principles-encapsulation.qmd to next file javase/se-principles-encapsulation.qmd to javase/se-concepts-package.qmd
+2022-12-28 10:13:43 - Operation #(78): **javase/se-principles-encapsulation.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: Packages to previous file javase/se-concepts-package.qmd to javase/se-principles-encapsulation.qmd
+2022-12-28 10:13:43 - #78: Added javase/se-principles-abstraction.qmd to next file javase/se-principles-abstraction.qmd to javase/se-principles-encapsulation.qmd
+2022-12-28 10:13:43 - Operation #(79): **javase/se-principles-abstraction.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: Encapsulation to previous file javase/se-principles-encapsulation.qmd to javase/se-principles-abstraction.qmd
+2022-12-28 10:13:43 - #79: Added javase/se-principles-inheritance.qmd to next file javase/se-principles-inheritance.qmd to javase/se-principles-abstraction.qmd
+2022-12-28 10:13:43 - Operation #(80): **javase/se-principles-inheritance.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: Abstraction to previous file javase/se-principles-abstraction.qmd to javase/se-principles-inheritance.qmd
+2022-12-28 10:13:43 - #80: Added javase/se-pattern-intro.qmd to next file javase/se-pattern-intro.qmd to javase/se-principles-inheritance.qmd
+2022-12-28 10:13:43 - Operation #(81): **javase/se-pattern-intro.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE: Inherence to previous file javase/se-principles-inheritance.qmd to javase/se-pattern-intro.qmd
+2022-12-28 10:13:43 - #81: Added javase/se-pattern-uml.qmd to next file javase/se-pattern-uml.qmd to javase/se-pattern-intro.qmd
+2022-12-28 10:13:43 - Operation #(82): **javase/se-pattern-uml.qmd**
+2022-12-28 10:13:43 - #$: Added  Java SE Design-Patterns to previous file javase/se-pattern-intro.qmd to javase/se-pattern-uml.qmd
+2022-12-28 10:13:43 - #82: Added javase/se-pattern-singleton.qmd to next file javase/se-pattern-singleton.qmd to javase/se-pattern-uml.qmd
+2022-12-28 10:13:43 - Operation #(83): **javase/se-pattern-singleton.qmd**
+2022-12-28 10:13:43 - #$: Added  Java Patterns: UML to previous file javase/se-pattern-uml.qmd to javase/se-pattern-singleton.qmd
+2022-12-28 10:13:43 - #83: Added javase/se-pattern-factory.qmd to next file javase/se-pattern-factory.qmd to javase/se-pattern-singleton.qmd
+2022-12-28 10:13:43 - Operation #(84): **javase/se-pattern-factory.qmd**
+2022-12-28 10:13:43 - #$: Added  Java Patterns: Singleton to previous file javase/se-pattern-singleton.qmd to javase/se-pattern-factory.qmd
+2022-12-28 10:13:43 - #84: Added javase/se-pattern-abstractfactory.qmd to next file javase/se-pattern-abstractfactory.qmd to javase/se-pattern-factory.qmd
+2022-12-28 10:13:43 - Operation #(85): **javase/se-pattern-abstractfactory.qmd**
+2022-12-28 10:13:43 - #$: Added  Java Patterns: Factory to previous file javase/se-pattern-factory.qmd to javase/se-pattern-abstractfactory.qmd
+2022-12-28 10:13:43 - #85: Added javase/se-pattern-observer.qmd to next file javase/se-pattern-observer.qmd to javase/se-pattern-abstractfactory.qmd
+2022-12-28 10:13:43 - Operation #(86): **javase/se-pattern-observer.qmd**
+2022-12-28 10:13:43 - #$: Added  Java Patterns: Abstract Factory to previous file javase/se-pattern-abstractfactory.qmd to javase/se-pattern-observer.qmd
+2022-12-28 10:13:43 - #86: Added javase/se-pattern-builder.qmd to next file javase/se-pattern-builder.qmd to javase/se-pattern-observer.qmd
+2022-12-28 10:13:44 - Operation #(87): **javase/se-pattern-builder.qmd**
+2022-12-28 10:13:44 - #$: Added  Java Patterns: Observer to previous file javase/se-pattern-observer.qmd to javase/se-pattern-builder.qmd
+2022-12-28 10:13:44 - #87: Added javase/selab1-1.qmd to next file javase/selab1-1.qmd to javase/se-pattern-builder.qmd
+2022-12-28 10:13:44 - Operation #(88): **javase/selab1-1.qmd**
+2022-12-28 10:13:44 - #$: Added  Java Patterns: Builder to previous file javase/se-pattern-builder.qmd to javase/selab1-1.qmd
+2022-12-28 10:13:44 - #88: Added javase/selab1-2.qmd to next file javase/selab1-2.qmd to javase/selab1-1.qmd
+2022-12-28 10:13:44 - Operation #(89): **javase/selab1-2.qmd**
+2022-12-28 10:13:44 - #$: Added  Lab#SE01-1: Maven/Gradle Person and Account to previous file javase/selab1-1.qmd to javase/selab1-2.qmd
+2022-12-28 10:13:44 - #89: Added javase/selab3.qmd to next file javase/selab3.qmd to javase/selab1-2.qmd
+2022-12-28 10:13:44 - Operation #(90): **javase/selab3.qmd**
+2022-12-28 10:13:44 - #$: Added  Lab#SE01-2: Maven/Gradle Person and Account stored in JSON  to previous file javase/selab1-2.qmd to javase/selab3.qmd
+2022-12-28 10:13:44 - #90: Added javase/selab4.qmd to next file javase/selab4.qmd to javase/selab3.qmd
+2022-12-28 10:13:44 - Operation #(91): **javase/selab4.qmd**
+2022-12-28 10:13:44 - #$: Added  Lab#SE02-1: Movie/Review to previous file javase/selab3.qmd to javase/selab4.qmd
+2022-12-28 10:13:44 - #91: Added javase/selab5.qmd to next file javase/selab5.qmd to javase/selab4.qmd
+2022-12-28 10:13:44 - Operation #(92): **javase/selab5.qmd**
+2022-12-28 10:13:44 - #$: Added  Lab 4: subject to previous file javase/selab4.qmd to javase/selab5.qmd
+2022-12-28 10:13:44 - #92: Added javase/resources.qmd to next file javase/resources.qmd to javase/selab5.qmd
+2022-12-28 10:13:44 - Operation #(93): **javase/resources.qmd**
+2022-12-28 10:13:44 - #$: Added  Lab 5: subject to previous file javase/selab5.qmd to javase/resources.qmd
+2022-12-28 10:13:44 - #93: Added spring/spring.qmd to next file spring/spring.qmd to javase/resources.qmd
+2022-12-28 10:13:44 - Operation #(94): **spring/spring.qmd**
+2022-12-28 10:13:44 - #$: Added  Java SE Resources to previous file javase/resources.qmd to spring/spring.qmd
+2022-12-28 10:13:44 - #94: Added spring/springmvc.qmd to next file spring/springmvc.qmd to spring/spring.qmd
+2022-12-28 10:13:44 - Operation #(95): **spring/springmvc.qmd**
+2022-12-28 10:13:44 - #$: Added  Spring to previous file spring/spring.qmd to spring/springmvc.qmd
+2022-12-28 10:13:44 - #95: Added springboot/springboot.qmd to next file springboot/springboot.qmd to spring/springmvc.qmd
+2022-12-28 10:13:44 - Operation #(96): **springboot/springboot.qmd**
+2022-12-28 10:13:44 - #$: Added  Spring MVC to previous file spring/springmvc.qmd to springboot/springboot.qmd
+2022-12-28 10:13:44 - #96: Added springboot/sblab1.qmd to next file springboot/sblab1.qmd to springboot/springboot.qmd
+2022-12-28 10:13:44 - Operation #(97): **springboot/sblab1.qmd**
+2022-12-28 10:13:44 - #$: Added  Spring Boot to previous file springboot/springboot.qmd to springboot/sblab1.qmd
+2022-12-28 10:13:44 - #97: Added springboot/sblab2.qmd to next file springboot/sblab2.qmd to springboot/sblab1.qmd
+2022-12-28 10:13:44 - Operation #(98): **springboot/sblab2.qmd**
+2022-12-28 10:13:44 - #$: Added  Lab 1: Spring Boot Projects to previous file springboot/sblab1.qmd to springboot/sblab2.qmd
+2022-12-28 10:13:44 - #98: Added springboot/sblab3.qmd to next file springboot/sblab3.qmd to springboot/sblab2.qmd
+2022-12-28 10:13:44 - Operation #(99): **springboot/sblab3.qmd**
+2022-12-28 10:13:44 - #$: Added  Lab 2: Spring Boot Projects to previous file springboot/sblab2.qmd to springboot/sblab3.qmd
+2022-12-28 10:13:44 - #99: Added springboot/sblab4.qmd to next file springboot/sblab4.qmd to springboot/sblab3.qmd
+2022-12-28 10:13:44 - Operation #(100): **springboot/sblab4.qmd**
+2022-12-28 10:13:44 - #$: Added  Lab 3: Spring Boot Projects to previous file springboot/sblab3.qmd to springboot/sblab4.qmd
+2022-12-28 10:13:44 - #100: Added springboot/sblab5.qmd to next file springboot/sblab5.qmd to springboot/sblab4.qmd
+2022-12-28 10:13:44 - Operation #(101): **springboot/sblab5.qmd**
+2022-12-28 10:13:44 - #$: Added  Lab 4: Spring Boot Projects `JPA Inherence` strategies to previous file springboot/sblab4.qmd to springboot/sblab5.qmd
+2022-12-28 10:13:44 - #101: Added springboot/resources.qmd to next file springboot/resources.qmd to springboot/sblab5.qmd
+2022-12-28 10:13:44 - Operation #(102): **springboot/resources.qmd**
+2022-12-28 10:13:44 - #$: Added  Lab 5: subject to previous file springboot/sblab5.qmd to springboot/resources.qmd
+2022-12-28 10:13:44 - #102: Added reactjs/reactjs.qmd to next file reactjs/reactjs.qmd to springboot/resources.qmd
+2022-12-28 10:13:44 - Operation #(103): **reactjs/reactjs.qmd**
+2022-12-28 10:13:44 - #$: Added  Spring Boot Resources to previous file springboot/resources.qmd to reactjs/reactjs.qmd
+2022-12-28 10:13:44 - #103: Added reactjs/hookstate.qmd to next file reactjs/hookstate.qmd to reactjs/reactjs.qmd
+2022-12-28 10:13:44 - Operation #(104): **reactjs/hookstate.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS: Introduction to previous file reactjs/reactjs.qmd to reactjs/hookstate.qmd
+2022-12-28 10:13:44 - #104: Added reactjs/hookreducer.qmd to next file reactjs/hookreducer.qmd to reactjs/hookstate.qmd
+2022-12-28 10:13:44 - Operation #(105): **reactjs/hookreducer.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/hookstate.qmd to reactjs/hookreducer.qmd
+2022-12-28 10:13:44 - #105: Added reactjs/hookref.qmd to next file reactjs/hookref.qmd to reactjs/hookreducer.qmd
+2022-12-28 10:13:44 - Operation #(106): **reactjs/hookref.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/hookreducer.qmd to reactjs/hookref.qmd
+2022-12-28 10:13:44 - #106: Added reactjs/hookeffect.qmd to next file reactjs/hookeffect.qmd to reactjs/hookref.qmd
+2022-12-28 10:13:44 - Operation #(107): **reactjs/hookeffect.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/hookref.qmd to reactjs/hookeffect.qmd
+2022-12-28 10:13:44 - #107: Added reactjs/hookcustom.qmd to next file reactjs/hookcustom.qmd to reactjs/hookeffect.qmd
+2022-12-28 10:13:44 - Operation #(108): **reactjs/hookcustom.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/hookeffect.qmd to reactjs/hookcustom.qmd
+2022-12-28 10:13:44 - #108: Added reactjs/reactjscontext.qmd to next file reactjs/reactjscontext.qmd to reactjs/hookcustom.qmd
+2022-12-28 10:13:44 - Operation #(109): **reactjs/reactjscontext.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/hookcustom.qmd to reactjs/reactjscontext.qmd
+2022-12-28 10:13:44 - #109: Added reactjs/rjslab1.qmd to next file reactjs/rjslab1.qmd to reactjs/reactjscontext.qmd
+2022-12-28 10:13:44 - Operation #(110): **reactjs/rjslab1.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/reactjscontext.qmd to reactjs/rjslab1.qmd
+2022-12-28 10:13:44 - #110: Added reactjs/rjslab2.qmd to next file reactjs/rjslab2.qmd to reactjs/rjslab1.qmd
+2022-12-28 10:13:44 - Operation #(111): **reactjs/rjslab2.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/rjslab1.qmd to reactjs/rjslab2.qmd
+2022-12-28 10:13:44 - #111: Added reactjs/rjslab3.qmd to next file reactjs/rjslab3.qmd to reactjs/rjslab2.qmd
+2022-12-28 10:13:44 - Operation #(112): **reactjs/rjslab3.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/rjslab2.qmd to reactjs/rjslab3.qmd
+2022-12-28 10:13:44 - #112: Added reactjs/rjslab4.qmd to next file reactjs/rjslab4.qmd to reactjs/rjslab3.qmd
+2022-12-28 10:13:44 - Operation #(113): **reactjs/rjslab4.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/rjslab3.qmd to reactjs/rjslab4.qmd
+2022-12-28 10:13:44 - #113: Added reactjs/rjslab5.qmd to next file reactjs/rjslab5.qmd to reactjs/rjslab4.qmd
+2022-12-28 10:13:44 - Operation #(114): **reactjs/rjslab5.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/rjslab4.qmd to reactjs/rjslab5.qmd
+2022-12-28 10:13:44 - #114: Added reactjs/resources.qmd to next file reactjs/resources.qmd to reactjs/rjslab5.qmd
+2022-12-28 10:13:44 - Operation #(115): **reactjs/resources.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/rjslab5.qmd to reactjs/resources.qmd
+2022-12-28 10:13:44 - #115: Added ifcd0210/ifcd0210.qmd to next file ifcd0210/ifcd0210.qmd to reactjs/resources.qmd
+2022-12-28 10:13:44 - Operation #(116): **ifcd0210/ifcd0210.qmd**
+2022-12-28 10:13:44 - #$: Added  React JS to previous file reactjs/resources.qmd to ifcd0210/ifcd0210.qmd
+2022-12-28 10:13:44 - #116: Added ifcd0210/ifcd0210calendar.qmd to next file ifcd0210/ifcd0210calendar.qmd to ifcd0210/ifcd0210.qmd
+2022-12-28 10:13:44 - Operation #(117): **ifcd0210/ifcd0210calendar.qmd**
+2022-12-28 10:13:44 - #$: Added  IFCD0210 Official Docs to previous file ifcd0210/ifcd0210.qmd to ifcd0210/ifcd0210calendar.qmd
+2022-12-28 10:13:44 - #117: Added ifcd0210/ifcd0210initemail.qmd to next file ifcd0210/ifcd0210initemail.qmd to ifcd0210/ifcd0210calendar.qmd
+2022-12-28 10:13:44 - Operation #(118): **ifcd0210/ifcd0210initemail.qmd**
+2022-12-28 10:13:44 - #$: Added  IFCD0210 Calendar to previous file ifcd0210/ifcd0210calendar.qmd to ifcd0210/ifcd0210initemail.qmd
+2022-12-28 10:13:44 - #118: Added ifcd0210/ifcd0210deliveries.qmd to next file ifcd0210/ifcd0210deliveries.qmd to ifcd0210/ifcd0210initemail.qmd
+2022-12-28 10:13:44 - Operation #(119): **ifcd0210/ifcd0210deliveries.qmd**
+2022-12-28 10:13:44 - #$: Added  IFCD Init Mail to previous file ifcd0210/ifcd0210initemail.qmd to ifcd0210/ifcd0210deliveries.qmd
+2022-12-28 10:13:44 - #119: Added vocabulary/vocabgeneral.qmd to next file vocabulary/vocabgeneral.qmd to ifcd0210/ifcd0210deliveries.qmd
+2022-12-28 10:13:44 - Operation #(120): **vocabulary/vocabgeneral.qmd**
+2022-12-28 10:13:44 - #$: Added  IFCD Deliveries to previous file ifcd0210/ifcd0210deliveries.qmd to vocabulary/vocabgeneral.qmd
+2022-12-28 10:13:44 - #120: Added vocabulary/vocabscrum.qmd to next file vocabulary/vocabscrum.qmd to vocabulary/vocabgeneral.qmd
+2022-12-28 10:13:44 - Operation #(121): **vocabulary/vocabscrum.qmd**
+2022-12-28 10:13:44 - #$: Added  General Vocabulary to previous file vocabulary/vocabgeneral.qmd to vocabulary/vocabscrum.qmd
+2022-12-28 10:13:44 - #121: Added vocabulary/vocabdevops.qmd to next file vocabulary/vocabdevops.qmd to vocabulary/vocabscrum.qmd
+2022-12-28 10:13:44 - Operation #(122): **vocabulary/vocabdevops.qmd**
+2022-12-28 10:13:44 - #$: Added  SCRUM Vocabulay to previous file vocabulary/vocabscrum.qmd to vocabulary/vocabdevops.qmd
+2022-12-28 10:13:44 - #122: Added vocabulary/vocabjava.qmd to next file vocabulary/vocabjava.qmd to vocabulary/vocabdevops.qmd
+2022-12-28 10:13:44 - Operation #(123): **vocabulary/vocabjava.qmd**
+2022-12-28 10:13:44 - #$: Added  DevOps Vocabulary to previous file vocabulary/vocabdevops.qmd to vocabulary/vocabjava.qmd
+2022-12-28 10:13:44 - #123: Added vocabulary/vocabspringboot.qmd to next file vocabulary/vocabspringboot.qmd to vocabulary/vocabjava.qmd
+2022-12-28 10:13:44 - Operation #(124): **vocabulary/vocabspringboot.qmd**
+2022-12-28 10:13:44 - #$: Added  Java SE Vocabulay to previous file vocabulary/vocabjava.qmd to vocabulary/vocabspringboot.qmd
+2022-12-28 10:13:44 - #124: Added vocabulary/vocabdatabase.qmd to next file vocabulary/vocabdatabase.qmd to vocabulary/vocabspringboot.qmd
+2022-12-28 10:13:44 - Operation #(125): **vocabulary/vocabdatabase.qmd**
+2022-12-28 10:13:44 - #$: Added  Spring Boot Vocabulay to previous file vocabulary/vocabspringboot.qmd to vocabulary/vocabdatabase.qmd
+2022-12-28 10:13:44 - #125: Added vocabulary/vocabreactjs.qmd to next file vocabulary/vocabreactjs.qmd to vocabulary/vocabdatabase.qmd
+2022-12-28 10:13:44 - Operation #(126): **vocabulary/vocabreactjs.qmd**
+2022-12-28 10:13:44 - #$: Added  DataBase Vocabulary to previous file vocabulary/vocabdatabase.qmd to vocabulary/vocabreactjs.qmd
+2022-12-28 10:13:44 - #126: Added about/aboutme.qmd to next file about/aboutme.qmd to vocabulary/vocabreactjs.qmd
+2022-12-28 10:13:44 - Operation #(127): **about/aboutme.qmd**
+2022-12-28 10:13:44 - #$: Added  ReactJS Vocabulary to previous file vocabulary/vocabreactjs.qmd to about/aboutme.qmd
+2022-12-28 10:13:44 - #127: Added about/aboutthissite.qmd to next file about/aboutthissite.qmd to about/aboutme.qmd
+2022-12-28 10:13:44 - Operation #(128): **about/aboutthissite.qmd**
+2022-12-28 10:13:44 - #$: Added  About me to previous file about/aboutme.qmd to about/aboutthissite.qmd
+2022-12-28 10:13:44 - #128: Added about/aboutimagescredit.qmd to next file about/aboutimagescredit.qmd to about/aboutthissite.qmd
+2022-12-28 10:13:44 - Operation #(129): **about/aboutimagescredit.qmd**
+2022-12-28 10:13:44 - #$: Added  About this site to previous file about/aboutthissite.qmd to about/aboutimagescredit.qmd
+2022-12-28 10:13:44 - #129: Added about/aboutlearning.qmd to next file about/aboutlearning.qmd to about/aboutimagescredit.qmd
+2022-12-28 10:13:44 - Operation #(130): **about/aboutlearning.qmd**
+2022-12-28 10:13:44 - #$: Added  About images credit to previous file about/aboutimagescredit.qmd to about/aboutlearning.qmd
+2022-12-28 10:13:44 - #130: Added about/aboutquestions.qmd to next file about/aboutquestions.qmd to about/aboutlearning.qmd
+2022-12-28 10:13:44 - Operation #(131): **about/aboutquestions.qmd**
+2022-12-28 10:13:44 - #$: Added  About learning to previous file about/aboutlearning.qmd to about/aboutquestions.qmd
+2022-12-28 10:13:44 - #131: Added about/aboutlisting-table.qmd to next file about/aboutlisting-table.qmd to about/aboutquestions.qmd
+2022-12-28 10:13:44 - Operation #(132): **about/aboutlisting-table.qmd**
+2022-12-28 10:13:44 - #$: Added  About the Useful Questions to previous file about/aboutquestions.qmd to about/aboutlisting-table.qmd
+2022-12-28 10:13:44 - #132: Added about/aboutlisting-card.qmd to next file about/aboutlisting-card.qmd to about/aboutlisting-table.qmd
+2022-12-28 10:13:44 - Operation #(133): **about/aboutlisting-card.qmd**
+2022-12-28 10:13:44 - #$: Added   to previous file about/aboutlisting-table.qmd to about/aboutlisting-card.qmd
+2022-12-28 10:13:44 - #133: No next file found for about/aboutlisting-card.qmd
