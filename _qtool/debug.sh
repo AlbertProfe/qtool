@@ -8,7 +8,6 @@ filesXdir=()
 filesXdomain=()
 files_dir=()
 # Initialize a counter variable
-counter=0
 counter_qmd=0
 counter_dir=0
 counter_files_qmd=0
@@ -20,8 +19,6 @@ log_file="$(date +"%Y%m%d-%H%M%S")-log-write-navLinks.txt"
 # Initialize a string variable
 path_qmd=''
 domain_qmd=''
-# Initialize a lineNumber_navLinks_is variable
-lineNumber_navLinks_is=-1
 # Couloring text
 BLUE='\033[0;33m'
 NC='\033[0m' # No Color
@@ -34,8 +31,7 @@ echo "*********** check nav: .qmds vs ,yml  *************" >&3
 while IFS= read -r line; do
     # If the line ends with ".qmd", add it to the array
     if [[ $line == *".qmd" ]]; then
-        let counter_qmd++
-       
+        ((counter_qmd++))
         # Extract path and domain from the lines ends with ".qmd"
         path_qmd="$(echo "$line" | tr -d ':' | sed 's/- //g' | tr -d ' ' | sed 's/file//g')"
         domain_qmd=$(cut -d '/' -f 1 <<< "$path_qmd");
@@ -44,13 +40,12 @@ while IFS= read -r line; do
         # Add domain to domains array if it is new
         if [[ ! "${domains[*]}" =~ "$domain_qmd" ]]; then
           domains+=("$domain_qmd")
-          
-          let counter_filesXdomain=1
+          ((counter_filesXdomain=1))
         else
-          let counter_filesXdomain++
+          ((counter_filesXdomain++))
         fi
         counter_fxd_last=(${#domains[@]}-1)
-        let filesXdomain[$counter_fxd_last]=$counter_filesXdomain
+        filesXdomain[$counter_fxd_last]=$counter_filesXdomain
         # Write a message to the log file indicating that .qmd path has been extracted
         echo "$(date +"%Y-%m-%d %H:%M:%S") - extracting from _quarto.yml' $counter_qmd: $path_qmd" >&3
         #echo "$(date +"%Y-%m-%d %H:%M:%S") total .qmds and domains: $counter_qmd - ${#domains[@]}"

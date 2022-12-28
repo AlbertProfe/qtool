@@ -4,26 +4,6 @@
 
 **Qtool** is a tool specifically designed for **users of the Quarto documentation platform**. It offers a number of features that can help users manage large numbers of Quarto files more efficiently.
 
-The `help` feature provides users with information on how to use the tool and its various functions. The `debug` feature allows users to identify discrepancies between their `.yaml` and `.qmd` files, which can be useful for finding errors or inconsistencies in the documentation.
-
-The `dirtable` and yamltable features allow users to create tables from `.csv` files, which can be useful for organizing and visualizing large amounts of data.
-
-Finally, the `writenavigation` feature allows users to write `callouts` in their ``.qmd`` files to facilitate navigation within the documentation.
-
-Overall, qtool can be a valuable asset for Quarto users looking to **streamline their documentation processes and better manage large amounts of files**.
-
-## For big teams and big projects
-
-qtool can help Quarto users manage a large number of files by providing a number of useful functions. The `help` function can provide users with information on how to use the tool and its various functions.
-
-The `debug` function can be used to identify discrepancies between the .yaml file and the `.qmd` files, which can be useful for ensuring that the project is properly structured and organized. 
-
-The `dirtable` and `yamltable` functions can be used to create tables from .csv files, which can be useful for visualizing and organizing data in a more structured way.
-
-Finally, the `writenavigation` function can be used to write callouts in `.qmd` files to facilitate navigation, which can be especially useful for large projects with many collaborators. Overall, qtool can be a very useful tool for managing and organizing large Quarto projects.
-
-## Operations implemented
-
 **Qtool is a command-line tool** that helps users manage and manipulate their Quarto (`.qmd`) files. It has the following five operations:
 
 - `debug`: scans the directories and files in a specified directory, and checks for any discrepancies between the .yaml and ``.qmd`` files. It reports any errors or inconsistencies it finds.
@@ -48,9 +28,7 @@ To install qtool, users can clone the repository from GitHub using the following
 git clone https://github.com/user/qtool.git
 ```
 
-Alternatively, users can download the zip file and extract it to a desired location.
-
-Once the qtool directory is available, users can enter the directory and use the following command to make the script executable:
+Alternatively, users can download the zip file and extract it to a desired location. Once the qtool directory is available, users can enter the directory and use the following command to make the script executable:
 
 ```bash
 chmod +x qtool
@@ -86,14 +64,6 @@ Once the qtool script is installed and available in the PATH, users can use it f
 qtool function
 ```
 
-## Pricing and license
-
-### Pricing
-
-**Qtool is a free and open source tool licensed under the MIT license**. 
-
-This means that users are free to use, modify, and distribute the tool as they see fit, as long as they include the appropriate attribution and do not hold the developers liable for any damages that may result from using the tool. Users can easily install and use qtool from the Linux terminal by downloading the source code from a repository such as GitHub and following the installation instructions provided.
-
 ### tty-table
 
 Use nodejs and tty-table app with csv delimiter ";"
@@ -107,4 +77,18 @@ $ npm install tty-table -g
 
 [tty-table 端子台](https://github.com/tecfu/tty-table)
 
+**Notice**
 
+> The package (tty-table) that depends on another package (yargs) which in turn depends on yargs-parser. The yargs-parser package requires a minimum version of **Node.js (12)** in order to work properly.
+
+```bash
+sudo apt update
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+source ~/.bashrc
+nvm --version
+nvm ls
+nvm ls-remote
+# chek last version
+# nvm install [version.number]
+nvm install v19.3.0
+```

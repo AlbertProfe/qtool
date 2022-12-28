@@ -2,7 +2,6 @@
 
 # Initialize an empty array
 directories=()
-filesXdir=()
 files_dir=()
 # Initialize a counter variable
 counter=0
@@ -28,7 +27,7 @@ for dir in ../*/; do
     for file in "$dir"*; do
       # Check if the file is a .qmd file
       if [[ $file == *".qmd" ]]; then
-        let counter++
+        ((counter++))
         files_dir+=($file)
         # Extract title from line 2 .qmd file
         title_line=$(awk 'NR==2 {print}' "${file}")
@@ -40,17 +39,10 @@ for dir in ../*/; do
   fi
 done
 
-# Print results
-#echo -e "${BLUE}\nReal .qmd files in directory:${NC}"
-#for ((i=0; i < ${#files_dir[@]}; i++)); do
-#    echo -e "\t$((i+1)): ${files_dir[i]}"
-#done
-
 # Use nodejs and tty-table app with csv delimiter ";"
 # need to install two packages:
 # $ sudo apt-get install nodejs 
 # $ npm install tty-table -g
-
 echo -e "${BLUE}\nFrom local directory and .qmd files :${NC}"
 cat dirTable.csv | tty-table --csv-delimiter ";"
 

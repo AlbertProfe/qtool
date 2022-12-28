@@ -22,7 +22,7 @@ echo "***************** Extracting **********************" >&3
 while IFS= read -r line; do
   # If the line ends with ".qmd", add it to the array
   if [[ $line == *".qmd" ]]; then
-    let counter++
+    ((counter++))
     # Extract path qmd file and add to array files
     path_qmd="$(echo "$line" | tr -d ':' | sed 's/- //g' | tr -d ' ' | sed 's/file//g')"
     files+=("$path_qmd")
@@ -42,7 +42,7 @@ echo "***************** Writing  ************************" >&3
 for ((i=0; i<${#files[@]}; i++)); do
   # Open the .qmd file
   file="${files[i]}"
-  let op_counter++
+  ((op_counter++))
   echo "$(date +"%Y-%m-%d %H:%M:%S") - Operation #($op_counter): **${file}**" >&3
   echo 'operartion:' $op_counter' > writing to: '$file
   
@@ -54,7 +54,7 @@ for ((i=0; i<${#files[@]}; i++)); do
     # Store the line number of the first match
     lineNumber_navLinks=$(grep -n "<!--- navLinks -->" "../${file}" | awk -F: '{print $1}')
     # Delete all lines after the line number
-    let lineNumber_navLinks++; 
+    ((lineNumber_navLinks++))
     echo "lineNumber_navLinks:" $lineNumber_navLinks
     sed -i "$lineNumber_navLinks,\$d" "../${file}"
   else

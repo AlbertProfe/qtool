@@ -4,7 +4,6 @@
 files=()
 # Initialize a counter variable
 counter=0
-op_counter=0
 # Generate the log file name using the current date and time
 log_file="$(date +"%Y%m%d-%H%M%S")-log-write-navLinks.txt"
 # Initialize a string variable
@@ -14,8 +13,6 @@ title=''
 title_line=''
 section_line=''
 section=''
-# Initialize a lineNumber_navLinks_is variable
-lineNumber_navLinks_is=-1
 # Couloring text
 BLUE='\033[0;33m'
 NC='\033[0m' # No Color
@@ -43,7 +40,7 @@ while IFS= read -r line; do
         path_qmd="$(echo "$line" | tr -d ':' | sed 's/- //g' | tr -d ' ' | sed 's/file//g')"
         domain_qmd=$(cut -d '/' -f 1 <<< "$path_qmd");
         files+=("$path_qmd")
-        let counter++
+        ((counter++))
         # Extract title from line 2 .qmd file
         title_line=$(awk 'NR==2 {print}' "../${path_qmd}")
         #echo "$title_line"
