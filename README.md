@@ -18,13 +18,26 @@ qtool can help Quarto users manage a large number of files by providing a number
 
 The `debug` function can be used to identify discrepancies between the .yaml file and the `.qmd` files, which can be useful for ensuring that the project is properly structured and organized. 
 
+![debug results](https://github.com/AlbertProfe/qtool/blob/main/qtool_screenshots/qtool-000003.png) 
+
+debug results
+
 The `dirtable` and `yamltable` functions can be used to create tables from .csv files, which can be useful for visualizing and organizing data in a more structured way.
 
+![yaml table helps to look for discrepancies](https://github.com/AlbertProfe/qtool/blob/main/qtool_screenshots/qtool-000001.png)
+
+yaml table helps to look for discrepancies
+
 Finally, the `writenavigation` function can be used to write callouts in `.qmd` files to facilitate navigation, which can be especially useful for large projects with many collaborators. Overall, qtool can be a very useful tool for managing and organizing large Quarto projects.
+
+![.ymal data to table](https://github.com/AlbertProfe/qtool/blob/main/qtool_screenshots/qtool-000007.png)
+![.ymal data to table](https://github.com/AlbertProfe/qtool/blob/main/qtool_screenshots/qtool-000008.png)
+./writenavigation.sh in action
 
 Besides, qtool create csv files with data from .yaml amb .qmd files and it is very easy to check it:
 
 ![.ymal data to table](https://github.com/AlbertProfe/qtool/blob/main/qtool_screenshots/qtool-000021.png)
+.ymal data to csv table, on visual code IDE
 
 ## Features
 
