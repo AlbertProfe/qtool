@@ -6,6 +6,8 @@ titles=()
 # Initialize a counter variable
 counter=0
 op_counter=0
+total_files=0
+second_last=0
 # Generate the log file name using the current date and time
 log_file="$(date +"%Y%m%d-%H%M%S")-log-write-navLinks.txt"
 # Initialize a string variable
@@ -38,6 +40,9 @@ done < "../_quarto.yml"
 
 echo "***************** Writing  ************************" >&3
 
+total_files=${#files[@]}
+second_last=$((${#files[@]}-1))
+#echo 'total_files:' $total_files ' - ' $second_last
 # Loop through the array of .qmd files
 for ((i=0; i<${#files[@]}; i++)); do
   # Open the .qmd file
@@ -60,56 +65,81 @@ for ((i=0; i<${#files[@]}; i++)); do
   else
     echo "<!--- navLinks -->" >> "../${file}"
   fi
-    
-  # Write the columns callout init in anycase to .qmd file  
+
+  # Write the columns callout init in anycase to .qmd file
   echo "<br><br>" >> "../${file}"
   echo "<div class="row">" >> "../${file}"
   echo "<br>" >> "../${file}"
+  echo "<div class='column left previous'>" >> "../${file}"
+  echo "<br>" >> "../${file}"
 
-  # Append a link to the previous file
-  if [[ $i -gt 0 ]]; then 
-    echo "<div class='column left previous'>" >> "../${file}"
-    echo "<br>" >> "../${file}"
-    echo "[{{< fa solid arrow-left >}} "${titles[i-1]}"](/"${files[i-1]}")" >> "../${file}"
-    echo "<br>" >> "../${file}"
-    echo "</div>" >> "../${file}"
-    echo "<br>" >> "../${file}"
-    # Write the operation to the log file
-    echo "$(date +"%Y-%m-%d %H:%M:%S") - #$: Added  "${titles[i-1]}" to previous file ${files[i-1]} to ${file}" >&3
+  #previous link
+  #just for home/index
+  if [ "$i" -eq 0 ]; then
+    echo "[{{< fa solid arrow-left >}} "${titles[$second_last]}"](/"${files[$second_last]}")" >> "../${file}"
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - Added to previous article ["${titles[$second_last]}"](/"${files[$second_last]}")" >&3
   else
-    # Write a message to the log file indicating that no previous file was found
-    echo "$(date +"%Y-%m-%d %H:%M:%S") - #$op_counter: No previous file found for ${file}" >&3
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - No Articles "${titles[$second_last]}"](/"${files[$second_last]}") found" >&3
   fi
-  # # Write the top arrow callout in anycase to .qmd file  
+  #previous link
+  #for all articles
+  if [ "$i" -gt 0 ] && [ "$i" -lt "$second_last" ]; then
+    echo "[{{< fa solid arrow-left >}} "${titles[i-1]}"](/"${files[i-1]}")" >> "../${file}"
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - #$: Added article "${titles[i-1]}" to previous file "${files[i-1]}" to "${file} >&3
+  else
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - No previous file found for "${file} >&3
+  fi
+  #previous link
+  #just for last page, cards-listing
+  if [ "$i" -eq "$second_last" ]; then
+    echo "[{{< fa solid arrow-left >}} "${titles[i-1]}"](/"${files[i-1]}")" >> "../${file}"
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - Added to previous article "${titles[i-1]}"](/"${files[i-1]}")" >&3
+  else
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - No Articles "${titles[i-1]}"](/"${files[i-1]}") found" >&3
+  fi
+
+  #elevator arrow to top file
+  echo "<br>" >> "../${file}"
+  echo "</div>" >> "../${file}"
+  echo "<br>" >> "../${file}"
   echo "<div class='column center'>" >> "../${file}"
   echo "<br>" >> "../${file}"
   echo "[{{< fa solid arrow-up >}} top](#top)"  >> "../${file}" 
   echo "<br>" >> "../${file}"
   echo "</div>" >> "../${file}"
   echo "<br>" >> "../${file}"
+  echo "<div class='column right next'>"  >> "../${file}"
+  echo "<br>" >> "../${file}"
 
-  # Append a link to the next file
-  if [[ $i -lt $(( ${#files[@]} - 1 )) ]]; then
-    echo "<div class='column right next'>"  >> "../${file}"
-    echo "<br>" >> "../${file}"
-    echo "["${titles[i+1]} " {{< fa solid arrow-right >}}](/"${files[i+1]}")" >> "../${file}"
-    echo "<br>" >> "../${file}"
-    echo "</div>" >> "../${file}"
-    echo "<br>" >> "../${file}"
-    # Write the operation to the log file
-    echo "$(date +"%Y-%m-%d %H:%M:%S") - #$op_counter: Added "${files[i+1]}" to next file ${files[i+1]} to ${file}" >&3
+  # next link
+  # just for home/index
+  if [ "$i" -eq 0 ]; then
+    echo "["${titles[i+1]}" {{< fa solid arrow-left >}}](/"${files[i+1]}")" >> "../${file}"
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - Added to next article ["${titles[i+1]}"](/"${files[i+1]}")" >&3
   else
-    # Write a message to the log file indicating that no next file was found
-    echo "$(date +"%Y-%m-%d %H:%M:%S") - #$op_counter: No next file found for ${file}" >&3
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - No Article "${titles[i+1]}"](/"${files[i+1]}") found" >&3
   fi
-  # Write the columns callout end in anycase to .qmd file  
-  echo "</div>" >> "../${file}"  
+  # next link
+  # for all articles
+  if [ "$i" -gt 0 ] && [ "$i" -lt "$second_last" ]; then
+    echo "["${titles[i+1]} " {{< fa solid arrow-right >}}](/"${files[i+1]}")" >> "../${file}"
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - #$: Added article "${titles[i+1]}" to next file ${files[i+1]} to ${file}" >&3
+  else
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - No next file found for ${file}" >&3
+  fi
+  # next link
+  # just for last page, cards-listing
+  if [ "$i" -eq "$second_last" ]; then
+    echo "["${titles[0]}" {{< fa solid arrow-left >}}](/"${files[0]}")" >> "../${file}"
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - Added article "${titles[0]}" to next file ${files[0]} to ${file}" >&3
+  else
+    echo "$(date +"%Y-%m-%d %H:%M:%S") - No Articles "${titles[0]}"](/"${files[0]}") found" >&3
+  fi
+  echo "<br>" >> "../${file}"
+  echo "</div>" >> "../${file}"
+  echo "<br>" >> "../${file}"
+  echo "</div>" >> "../${file}"
 done
 
 # Close the log file
 exec 3>&-
-
-
-
-
-

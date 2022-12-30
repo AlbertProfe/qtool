@@ -11,14 +11,14 @@
 - `yamltable`: generates a CSV file containing information about the .yaml files in the specified directory. It includes the file name, the number of lines in the file, and the number of sections in the file.
 - `writenavigation`: adds callouts to the ``.qmd`` files in the specified directory, to make it easier for users to navigate through the content. It adds a callout at the beginning of each section, with a link to the next and previous sections.
 
-## Future features: To-do
+## Using qtool
 
-- `help`: displays a list of all available commands and their usage.
-- `template`: allows users to create a new template for their .qmd files or use an existing template.
-
-### Template discussion
-
-This can be useful for organizing and standardizing the structure of their .qmd files, particularly in large projects with multiple collaborators. To create a new template, users can specify the desired structure and formatting for their .qmd files and save it as a template file. To use an existing template, they can specify the path to the template file and the qtool script will use it to create new .qmd files. The qtool script is a free, open-source tool licensed under the MIT license, so users can freely use and modify it to meet their needs.
+1. git clone from repository
+2. move to Quarto project **_qtool**
+3. remember to add **_qtool** directory to *.gitignore*
+4. from **_qtool** directory:
+   1. give permission to bash scripts: **chmod +x debug.sh** or directory **chmod +x _qtool**
+   2. execute them: **./qtool debug.sh**
 
 ## Install
 
